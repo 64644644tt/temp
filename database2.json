@@ -13,5 +13,14 @@
       "createdAt": "2026-09-06T09:22:55.783Z"
     }
   ],
-  "emails": []
+  "emails": [
+    {
+      "id": "1788687100950",
+      "recipient": "4a9647f83a23cafcecb5@cloudmailin.net",
+      "sender": "arafatas602@gmail.com",
+      "subject": "No Subject",
+      "body": "Hi\n",
+      "receivedAt": "2026-09-06T09:31:40.950Z"
+    }
+  ]
 }
