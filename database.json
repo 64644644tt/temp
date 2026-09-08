@@ -11,5 +11,5 @@
       }
     }
   },
-  "logs": ""
+  "logs": "[9/8/2026, 9:18:08 AM] 🔴 API: Generate Request Error\nStatus: 401\nPayload: {\"prompt\":\"gojo\",\"model\":\"gpt-image-2\",\"provider\":\"sunra\",\"apiModelId\":\"openai/gpt-image-2-azure\",\"type\":\"image\",\"settings\":{\"aspectRatio\":\"1:1\",\"resolution\":\"1K\",\"outputFormat\":\"png\",\"size\":\"1024x1024\",\"quality\":\"low\"},\"feature\":\"director\",\"batchId\":\"flow-agent-image-1788837488067\",\"cost\":1,\"projectId\":\"217135b5-242d-4617-b5a5-65343e87296f\"}\nError: {\"error\":\"Unauthorized\"}\n-----------------\n"
 }
