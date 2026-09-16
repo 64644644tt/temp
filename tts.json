@@ -2,5 +2,9 @@
   "aizen": {
     "sname": "aizen",
     "model": "eda2fadcf6e84d738f90468a5765ec95"
+  },
+  "munna": {
+    "sname": "munna",
+    "model": "5a2f634843b94192a1c9859d715f1632"
   }
 }
