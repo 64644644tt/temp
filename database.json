@@ -7,7 +7,7 @@
     "accounts": {
       "ponpon_user_id=54f24ca4-e191-44cd-9d8d-d71d7270970b; _pin_unauth=dWlkPU9HVTFORE0wTkRBdFlqazFaUzAwTlRVd0xUbGpNREl0WVdNNFlUTXpOVGxrWVRneg; g_state={\"i_l\":0,\"i_ll\":1788150604496,\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1788150604496}; ponpon_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwNGFjMTU1YS1hMTA2LTRiN2MtODc3NC1jZmEyZTBiOTExMTciLCJzZXNzaW9uSWQiOiI2YTcyZGU2YmIwODc1NDYwYTczOTA2NDIxYzBiMTE5YTI5NzFlMDc2ODE1ZDcxMTA4NWRkYmUyMzAxODI1MjliIiwidG9rZW5WZXJzaW9uIjowLCJpYXQiOjE3ODgxNTA2MTMsImV4cCI6MTc5MDc0MjYxM30.XPZtMwpM_ey8vClV_V1Gr8fm8jCAgHs3-vhLm0WxzN4; ponpon_refresh=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwNGFjMTU1YS1hMTA2LTRiN2MtODc3NC1jZmEyZTBiOTExMTciLCJzZXNzaW9uSWQiOiI2YTcyZGU2YmIwODc1NDYwYTczOTA2NDIxYzBiMTE5YTI5NzFlMDc2ODE1ZDcxMTA4NWRkYmUyMzAxODI1MjliIiwidG9rZW5WZXJzaW9uIjowLCJpYXQiOjE3ODgxNTA2MTMsImV4cCI6MTc5MDc0MjYxM30.XPZtMwpM_ey8vClV_V1Gr8fm8jCAgHs3-vhLm0WxzN4; ponpon.flow.lastProject=04ac155a-a106-4b7c-8774-cfa2e0b91117%3A217135b5-242d-4617-b5a5-65343e87296f": {
         "status": "live",
-        "balance": 17
+        "balance": 19
       }
     }
   },
