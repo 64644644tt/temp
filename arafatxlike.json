@@ -7,6 +7,20 @@
   "tokenExpired": false,
   "history": [
     {
+      "uid": "16441260338",
+      "status": "Success",
+      "msg": "Like Successfully Sent",
+      "details": {
+        "status": "success",
+        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
+        "given": 159,
+        "before": 41,
+        "after": 200,
+        "name": "ㅤPHㅤLEADER"
+      },
+      "time": "2026-10-02T17:51:05.381Z"
+    },
+    {
       "uid": "8298274015",
       "status": "Failed",
       "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)",
