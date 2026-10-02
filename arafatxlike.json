@@ -3,8 +3,13 @@
     "phpSessId": "vmiq548b7r3moe0i0tj695fcdd",
     "csrfToken": "1e2005d02354f4446b5439c596d4017afdcab9f2d48ba586f44dfcb95e4ae0e6"
   },
-  "queue": [],
-  "tokenExpired": false,
+  "queue": [
+    {
+      "uid": "8298274015",
+      "time": "2026-10-02T18:09:07.809Z"
+    }
+  ],
+  "tokenExpired": true,
   "history": [
     {
       "uid": "16441260338",
