@@ -1,19 +1,10 @@
 {
   "tokens": {
-    "phpSessId": "61kdsnnepgdmhvgh1lgpk9qkmu",
-    "csrfToken": "b2fdc954e7083b62b36f031ee4b37af3dd7c1e69388321bd1d413850d7ba82fa"
+    "phpSessId": "rolrb47ftqlh75jgk9ku506bdj",
+    "csrfToken": "f386c5df837a851aed92f8a35827d12752f1f2dbcb099b41485c438c30c09439"
   },
-  "queue": [
-    {
-      "uid": "8298274015",
-      "time": "2026-10-02T18:58:08.852Z"
-    },
-    {
-      "uid": "8298274015",
-      "time": "2026-10-02T18:59:59.228Z"
-    }
-  ],
-  "tokenExpired": true,
+  "queue": [],
+  "tokenExpired": false,
   "history": [
     {
       "uid": "8298274015",
