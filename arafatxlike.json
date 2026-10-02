@@ -8,6 +8,20 @@
   "history": [
     {
       "uid": "7651209277",
+      "status": "Success",
+      "msg": "Sent from Queue",
+      "details": {
+        "status": "success",
+        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
+        "given": 216,
+        "before": 2227,
+        "after": 2443,
+        "name": "❤️md⭐Redoy♨️"
+      },
+      "time": "2026-10-02T22:41:19.542Z"
+    },
+    {
+      "uid": "7651209277",
       "status": "Queued",
       "msg": "Token Expired",
       "details": {
@@ -99,16 +113,6 @@
         "name": "ㅤPHㅤLEADER"
       },
       "time": "2026-10-02T17:51:05.381Z"
-    },
-    {
-      "uid": "8298274015",
-      "status": "Failed",
-      "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)",
-      "details": {
-        "status": "error",
-        "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)"
-      },
-      "time": "2026-10-02T17:35:44.409Z"
     }
   ]
 }
