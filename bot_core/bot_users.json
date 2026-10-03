@@ -7,5 +7,10 @@
     }
   },
   "cooldowns": {},
-  "tasks": {}
+  "tasks": {
+    "ARF-98429": {
+      "platformUid": "7326996884",
+      "status": "active"
+    }
+  }
 }
