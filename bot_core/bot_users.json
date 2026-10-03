@@ -13,6 +13,10 @@
     "ARF-98429": {
       "platformUid": "7326996884",
       "status": "used"
+    },
+    "ARF-74046": {
+      "platformUid": "7326996884",
+      "status": "active"
     }
   }
 }
