@@ -16,7 +16,7 @@
       "lang": "bn"
     },
     "6411952409": {
-      "balance": 0,
+      "balance": 1,
       "state": "idle",
       "lang": "bn"
     }
@@ -69,7 +69,7 @@
     },
     "ARF-79747": {
       "platformUid": "6411952409",
-      "status": "active"
+      "status": "used"
     }
   }
 }
