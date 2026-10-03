@@ -1,12 +1,14 @@
 {
   "users": {
     "7326996884": {
-      "balance": 1,
-      "state": "wait_like",
+      "balance": 0,
+      "state": "idle",
       "lang": "bn"
     }
   },
-  "cooldowns": {},
+  "cooldowns": {
+    "12190670235": "2026-10-03T04:14:06.177Z"
+  },
   "tasks": {
     "ARF-98429": {
       "platformUid": "7326996884",
