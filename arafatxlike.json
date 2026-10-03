@@ -8,6 +8,13 @@
   "history": [
     {
       "uid": "8298274015",
+      "status": "Error",
+      "msg": "Queue crashed",
+      "details": "write ETIMEDOUT",
+      "time": "2026-10-03T06:01:43.255Z"
+    },
+    {
+      "uid": "8298274015",
       "status": "Queued",
       "msg": "Token Expired",
       "details": {
@@ -111,16 +118,6 @@
         "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)"
       },
       "time": "2026-10-02T19:02:46.348Z"
-    },
-    {
-      "uid": "8298274015",
-      "status": "Queued",
-      "msg": "Token Expired",
-      "details": {
-        "status": "error",
-        "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
-      },
-      "time": "2026-10-02T18:59:59.998Z"
     }
   ]
 }
