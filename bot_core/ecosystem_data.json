@@ -8,7 +8,7 @@
   "history": [],
   "users": {
     "7326996884": {
-      "balance": 0,
+      "balance": 1,
       "state": "idle"
     }
   },
@@ -16,7 +16,7 @@
   "tasks": {
     "ARF-37983": {
       "platformUid": "7326996884",
-      "status": "active"
+      "status": "used"
     }
   }
 }
