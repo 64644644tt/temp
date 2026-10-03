@@ -1,0 +1,17 @@
+{
+  "tokens": {
+    "phpSessId": "",
+    "csrfToken": ""
+  },
+  "tokenExpired": false,
+  "queue": [],
+  "history": [],
+  "users": {
+    "7326996884": {
+      "balance": 0,
+      "state": "idle"
+    }
+  },
+  "cooldowns": {},
+  "tasks": {}
+}
