@@ -3,8 +3,14 @@
     "phpSessId": "",
     "csrfToken": ""
   },
-  "tokenExpired": false,
-  "queue": [],
+  "tokenExpired": true,
+  "queue": [
+    {
+      "uid": "7575639069",
+      "platformUid": "7326996884",
+      "time": "2026-10-03T03:29:50.976Z"
+    }
+  ],
   "history": [],
   "users": {
     "7326996884": {
