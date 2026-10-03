@@ -8,11 +8,13 @@
   "history": [],
   "users": {
     "7326996884": {
-      "balance": 1,
-      "state": "wait_like"
+      "balance": 0,
+      "state": "idle"
     }
   },
-  "cooldowns": {},
+  "cooldowns": {
+    "7575639069": "2026-10-03T03:29:49.921Z"
+  },
   "tasks": {
     "ARF-37983": {
       "platformUid": "7326996884",
