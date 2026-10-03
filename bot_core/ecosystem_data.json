@@ -15,7 +15,7 @@
   "users": {
     "7326996884": {
       "balance": 0,
-      "state": "wait_like"
+      "state": "idle"
     }
   },
   "cooldowns": {
