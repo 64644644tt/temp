@@ -9,6 +9,11 @@
       "balance": 0,
       "state": "wait_like",
       "lang": "bn"
+    },
+    "6059316327": {
+      "balance": 0,
+      "state": "idle",
+      "lang": "bn"
     }
   },
   "cooldowns": {
