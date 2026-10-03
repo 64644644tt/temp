@@ -62,6 +62,10 @@
     "ARF-45008": {
       "platformUid": "6411952409",
       "status": "active"
+    },
+    "ARF-79195": {
+      "platformUid": "6411952409",
+      "status": "active"
     }
   }
 }
