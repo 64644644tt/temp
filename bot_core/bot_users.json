@@ -11,7 +11,7 @@
       "lang": "bn"
     },
     "6059316327": {
-      "balance": 0,
+      "balance": 1,
       "state": "wait_like",
       "lang": "bn"
     }
@@ -48,7 +48,7 @@
     },
     "ARF-81348": {
       "platformUid": "6059316327",
-      "status": "active"
+      "status": "used"
     },
     "ARF-98276": {
       "platformUid": "6059316327",
