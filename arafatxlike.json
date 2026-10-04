@@ -7,6 +7,20 @@
   "tokenExpired": false,
   "history": [
     {
+      "uid": "9765075853",
+      "status": "Success",
+      "msg": "Like Successfully Sent",
+      "details": {
+        "status": "success",
+        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
+        "given": 98,
+        "before": 1325,
+        "after": 1423,
+        "name": "ᵁᶜʰⁱʰᵃᴷⁱˡˡᴿ✧"
+      },
+      "time": "2026-10-04T18:04:11.578Z"
+    },
+    {
       "uid": "2389126225",
       "status": "Success",
       "msg": "Like Successfully Sent",
@@ -103,16 +117,6 @@
         "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
       },
       "time": "2026-10-04T17:56:35.312Z"
-    },
-    {
-      "uid": "${uid",
-      "status": "Queued",
-      "msg": "Token Expired",
-      "details": {
-        "status": "error",
-        "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
-      },
-      "time": "2026-10-04T17:56:05.254Z"
     }
   ]
 }
