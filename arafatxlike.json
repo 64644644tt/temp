@@ -19,6 +19,16 @@
         "status": "error",
         "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
       },
+      "time": "2026-10-04T17:54:50.027Z"
+    },
+    {
+      "uid": "${uid",
+      "status": "Queued",
+      "msg": "Token Expired",
+      "details": {
+        "status": "error",
+        "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
+      },
       "time": "2026-10-04T17:54:49.052Z"
     },
     {
@@ -113,20 +123,6 @@
         "name": "Error_bother"
       },
       "time": "2026-10-03T04:14:11.026Z"
-    },
-    {
-      "uid": "7651209277",
-      "status": "Success",
-      "msg": "Sent from Queue",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 216,
-        "before": 2227,
-        "after": 2443,
-        "name": "❤️md⭐Redoy♨️"
-      },
-      "time": "2026-10-02T22:41:19.542Z"
     }
   ]
 }
