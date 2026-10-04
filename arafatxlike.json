@@ -7,6 +7,20 @@
   "tokenExpired": false,
   "history": [
     {
+      "uid": "12190670235",
+      "status": "Success",
+      "msg": "Like Successfully Sent",
+      "details": {
+        "status": "success",
+        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
+        "given": 103,
+        "before": 628,
+        "after": 731,
+        "name": "Error_bother"
+      },
+      "time": "2026-10-04T18:05:25.211Z"
+    },
+    {
       "uid": "9765075853",
       "status": "Success",
       "msg": "Like Successfully Sent",
@@ -107,16 +121,6 @@
         "msg": "সঠিক ইউআইডি দিন!"
       },
       "time": "2026-10-04T17:57:20.222Z"
-    },
-    {
-      "uid": "${uid",
-      "status": "Queued",
-      "msg": "Token Expired",
-      "details": {
-        "status": "error",
-        "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
-      },
-      "time": "2026-10-04T17:56:35.312Z"
     }
   ]
 }
