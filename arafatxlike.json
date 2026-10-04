@@ -7,6 +7,20 @@
   "tokenExpired": false,
   "history": [
     {
+      "uid": "17867653781",
+      "status": "Success",
+      "msg": "Like Successfully Sent",
+      "details": {
+        "status": "success",
+        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
+        "given": 103,
+        "before": 1,
+        "after": 104,
+        "name": "Arafat____oo"
+      },
+      "time": "2026-10-04T18:06:56.292Z"
+    },
+    {
       "uid": "12190670235",
       "status": "Success",
       "msg": "Like Successfully Sent",
@@ -111,16 +125,6 @@
         "msg": "সঠিক ইউআইডি দিন!"
       },
       "time": "2026-10-04T17:57:39.372Z"
-    },
-    {
-      "uid": "${uid",
-      "status": "Failed",
-      "msg": "সঠিক ইউআইডি দিন!",
-      "details": {
-        "status": "error",
-        "msg": "সঠিক ইউআইডি দিন!"
-      },
-      "time": "2026-10-04T17:57:20.222Z"
     }
   ]
 }
