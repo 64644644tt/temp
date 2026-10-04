@@ -27,6 +27,16 @@
         "status": "error",
         "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
       },
+      "time": "2026-10-04T17:55:31.534Z"
+    },
+    {
+      "uid": "${uid",
+      "status": "Queued",
+      "msg": "Token Expired",
+      "details": {
+        "status": "error",
+        "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
+      },
       "time": "2026-10-04T17:55:27.777Z"
     },
     {
@@ -113,20 +123,6 @@
         "name": "☯︎R.1亗NAYEM모"
       },
       "time": "2026-10-03T04:42:36.864Z"
-    },
-    {
-      "uid": "7575639069",
-      "status": "Success",
-      "msg": "Sent from Queue",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 167,
-        "before": 2300,
-        "after": 2467,
-        "name": "Lurid3a1J8D1"
-      },
-      "time": "2026-10-03T04:18:25.762Z"
     }
   ]
 }
