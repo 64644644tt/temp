@@ -31,6 +31,16 @@
         "status": "error",
         "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
       },
+      "time": "2026-10-04T17:55:44.613Z"
+    },
+    {
+      "uid": "${uid",
+      "status": "Queued",
+      "msg": "Token Expired",
+      "details": {
+        "status": "error",
+        "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
+      },
       "time": "2026-10-04T17:55:34.775Z"
     },
     {
@@ -112,20 +122,6 @@
         "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
       },
       "time": "2026-10-04T17:54:47.522Z"
-    },
-    {
-      "uid": "8395463224",
-      "status": "Success",
-      "msg": "Like Successfully Sent",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 158,
-        "before": 4414,
-        "after": 4572,
-        "name": "ᶜᴱᴼ〆Mᴀsᴀᴅ"
-      },
-      "time": "2026-10-03T16:02:06.907Z"
     }
   ]
 }
