@@ -27,6 +27,16 @@
         "status": "error",
         "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
       },
+      "time": "2026-10-04T17:55:34.775Z"
+    },
+    {
+      "uid": "${uid",
+      "status": "Queued",
+      "msg": "Token Expired",
+      "details": {
+        "status": "error",
+        "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
+      },
       "time": "2026-10-04T17:55:33.345Z"
     },
     {
@@ -112,13 +122,6 @@
         "name": "ᶜᴱᴼ〆Mᴀsᴀᴅ"
       },
       "time": "2026-10-03T16:02:06.907Z"
-    },
-    {
-      "uid": "8298274015",
-      "status": "Error",
-      "msg": "Queue crashed",
-      "details": "write ETIMEDOUT",
-      "time": "2026-10-03T06:01:43.255Z"
     }
   ]
 }
