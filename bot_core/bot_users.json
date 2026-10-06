@@ -17,7 +17,7 @@
     },
     "6411952409": {
       "balance": 1,
-      "state": "wait_like",
+      "state": "idle",
       "lang": "bn"
     }
   },
