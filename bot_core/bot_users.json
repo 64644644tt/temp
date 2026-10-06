@@ -1,7 +1,7 @@
 {
   "users": {
     "7326996884": {
-      "balance": 1,
+      "balance": 2,
       "state": "wait_info",
       "lang": "bn"
     },
@@ -82,7 +82,7 @@
     },
     "ARF-30366": {
       "platformUid": "7326996884",
-      "status": "active"
+      "status": "used"
     }
   }
 }
