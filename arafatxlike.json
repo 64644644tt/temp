@@ -8,6 +8,16 @@
   "history": [
     {
       "uid": "915194985",
+      "status": "Failed",
+      "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)",
+      "details": {
+        "status": "error",
+        "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)"
+      },
+      "time": "2026-10-06T12:10:32.160Z"
+    },
+    {
+      "uid": "915194985",
       "status": "Error",
       "msg": "Server crashed",
       "details": "Request failed with status code 500",
@@ -116,20 +126,6 @@
         "name": "安|•Tᴏꜱʜɪʀᴏㅤ❄"
       },
       "time": "2026-10-04T18:09:35.560Z"
-    },
-    {
-      "uid": "17867653781",
-      "status": "Success",
-      "msg": "Like Successfully Sent",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 103,
-        "before": 1,
-        "after": 104,
-        "name": "Arafat____oo"
-      },
-      "time": "2026-10-04T18:06:56.292Z"
     }
   ]
 }
