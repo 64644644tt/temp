@@ -8,6 +8,13 @@
   "history": [
     {
       "uid": "17870432018",
+      "status": "Error",
+      "msg": "Queue crashed",
+      "details": "socket hang up",
+      "time": "2026-10-06T13:33:21.128Z"
+    },
+    {
+      "uid": "17870432018",
       "status": "Queued",
       "msg": "Token Expired",
       "details": {
@@ -108,20 +115,6 @@
         "name": "Ꭾᴢㅤ—͞Ꭺʀᴀꜰᴀᴛ"
       },
       "time": "2026-10-06T11:35:33.278Z"
-    },
-    {
-      "uid": "8395463224",
-      "status": "Success",
-      "msg": "Sent from Queue",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 197,
-        "before": 4572,
-        "after": 4769,
-        "name": "ᶜᴱᴼ〆Mᴀsᴀᴅ"
-      },
-      "time": "2026-10-05T14:52:42.696Z"
     }
   ]
 }
