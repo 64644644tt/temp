@@ -2,7 +2,7 @@
   "users": {
     "7326996884": {
       "balance": 2,
-      "state": "idle",
+      "state": "wait_like",
       "lang": "bn"
     },
     "7418742315": {
