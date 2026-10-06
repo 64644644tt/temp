@@ -7,6 +7,20 @@
   "tokenExpired": false,
   "history": [
     {
+      "uid": "17867653781",
+      "status": "Success",
+      "msg": "Like Successfully Sent",
+      "details": {
+        "status": "success",
+        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
+        "given": 177,
+        "before": 105,
+        "after": 282,
+        "name": "Arafat____oo"
+      },
+      "time": "2026-10-06T13:35:04.363Z"
+    },
+    {
       "uid": "17870432018",
       "status": "Success",
       "msg": "Like Successfully Sent",
@@ -101,20 +115,6 @@
         "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)"
       },
       "time": "2026-10-06T11:44:34.124Z"
-    },
-    {
-      "uid": "8298274015",
-      "status": "Success",
-      "msg": "Like Successfully Sent",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 40,
-        "before": 7965,
-        "after": 8005,
-        "name": "꧁.Arͥafͣaͫt꧂"
-      },
-      "time": "2026-10-06T11:37:00.716Z"
     }
   ]
 }
