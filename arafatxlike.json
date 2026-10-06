@@ -7,6 +7,13 @@
   "tokenExpired": false,
   "history": [
     {
+      "uid": "915194985",
+      "status": "Error",
+      "msg": "Server crashed",
+      "details": "Request failed with status code 500",
+      "time": "2026-10-06T12:08:23.107Z"
+    },
+    {
       "uid": "14431654869",
       "status": "Success",
       "msg": "Like Successfully Sent",
@@ -123,20 +130,6 @@
         "name": "Arafat____oo"
       },
       "time": "2026-10-04T18:06:56.292Z"
-    },
-    {
-      "uid": "12190670235",
-      "status": "Success",
-      "msg": "Like Successfully Sent",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 103,
-        "before": 628,
-        "after": 731,
-        "name": "Error_bother"
-      },
-      "time": "2026-10-04T18:05:25.211Z"
     }
   ]
 }
