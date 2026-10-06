@@ -1,22 +1,22 @@
 {
   "users": {
     "7326996884": {
-      "balance": 0,
+      "balance": 1,
       "state": "wait_like",
       "lang": "bn"
     },
     "7418742315": {
-      "balance": 1,
+      "balance": 2,
       "state": "idle",
       "lang": "bn"
     },
     "6059316327": {
-      "balance": 1,
+      "balance": 2,
       "state": "wait_like",
       "lang": "bn"
     },
     "6411952409": {
-      "balance": 1,
+      "balance": 2,
       "state": "idle",
       "lang": "bn"
     }
