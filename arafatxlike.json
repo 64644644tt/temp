@@ -7,6 +7,16 @@
   "tokenExpired": false,
   "history": [
     {
+      "uid": "955485717",
+      "status": "Failed",
+      "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)",
+      "details": {
+        "status": "error",
+        "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)"
+      },
+      "time": "2026-10-06T11:44:34.124Z"
+    },
+    {
       "uid": "8298274015",
       "status": "Success",
       "msg": "Like Successfully Sent",
@@ -127,20 +137,6 @@
         "name": "Ꭾᴢㅤ—͞Ꭺʀᴀꜰᴀᴛ"
       },
       "time": "2026-10-04T18:01:21.109Z"
-    },
-    {
-      "uid": "8298274015",
-      "status": "Success",
-      "msg": "Like Successfully Sent",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 142,
-        "before": 7819,
-        "after": 7961,
-        "name": "꧁.Arͥafͣaͫt꧂"
-      },
-      "time": "2026-10-04T18:00:07.066Z"
     }
   ]
 }
