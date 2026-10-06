@@ -7,6 +7,20 @@
   "tokenExpired": false,
   "history": [
     {
+      "uid": "14431654869",
+      "status": "Success",
+      "msg": "Like Successfully Sent",
+      "details": {
+        "status": "success",
+        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
+        "given": 204,
+        "before": 1550,
+        "after": 1754,
+        "name": "꧁☬SOIJB ☬꧂"
+      },
+      "time": "2026-10-06T12:03:14.315Z"
+    },
+    {
       "uid": "5656527738",
       "status": "Success",
       "msg": "Like Successfully Sent",
@@ -123,20 +137,6 @@
         "name": "Error_bother"
       },
       "time": "2026-10-04T18:05:25.211Z"
-    },
-    {
-      "uid": "9765075853",
-      "status": "Success",
-      "msg": "Like Successfully Sent",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 98,
-        "before": 1325,
-        "after": 1423,
-        "name": "ᵁᶜʰⁱʰᵃᴷⁱˡˡᴿ✧"
-      },
-      "time": "2026-10-04T18:04:11.578Z"
     }
   ]
 }
