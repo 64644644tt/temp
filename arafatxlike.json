@@ -7,6 +7,20 @@
   "tokenExpired": false,
   "history": [
     {
+      "uid": "5656527738",
+      "status": "Success",
+      "msg": "Like Successfully Sent",
+      "details": {
+        "status": "success",
+        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
+        "given": 200,
+        "before": 5147,
+        "after": 5347,
+        "name": "Aʀᴇs...!"
+      },
+      "time": "2026-10-06T11:47:09.585Z"
+    },
+    {
       "uid": "955485717",
       "status": "Failed",
       "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)",
@@ -123,20 +137,6 @@
         "name": "ᵁᶜʰⁱʰᵃᴷⁱˡˡᴿ✧"
       },
       "time": "2026-10-04T18:04:11.578Z"
-    },
-    {
-      "uid": "2389126225",
-      "status": "Success",
-      "msg": "Like Successfully Sent",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 139,
-        "before": 50588,
-        "after": 50727,
-        "name": "Ꭾᴢㅤ—͞Ꭺʀᴀꜰᴀᴛ"
-      },
-      "time": "2026-10-04T18:01:21.109Z"
     }
   ]
 }
