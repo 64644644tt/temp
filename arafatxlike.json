@@ -7,6 +7,20 @@
   "tokenExpired": false,
   "history": [
     {
+      "uid": "3439542196",
+      "status": "Success",
+      "msg": "Like Successfully Sent",
+      "details": {
+        "status": "success",
+        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
+        "given": 170,
+        "before": 9935,
+        "after": 10105,
+        "name": "-_ᎡᏫᎷIᎷ"
+      },
+      "time": "2026-10-08T10:38:40.711Z"
+    },
+    {
       "uid": "8395463224",
       "status": "Success",
       "msg": "Sent from Queue",
@@ -101,20 +115,6 @@
       "msg": "Server crashed",
       "details": "Request failed with status code 500",
       "time": "2026-10-06T12:08:23.107Z"
-    },
-    {
-      "uid": "14431654869",
-      "status": "Success",
-      "msg": "Like Successfully Sent",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 204,
-        "before": 1550,
-        "after": 1754,
-        "name": "꧁☬SOIJB ☬꧂"
-      },
-      "time": "2026-10-06T12:03:14.315Z"
     }
   ]
 }
