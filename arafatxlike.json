@@ -12,6 +12,16 @@
   "tokenExpired": true,
   "history": [
     {
+      "uid": "8395463224",
+      "status": "Queued",
+      "msg": "Token Expired",
+      "details": {
+        "status": "error",
+        "msg": "অর্ডার করতে likesff.shop এ লগইন করুন!"
+      },
+      "time": "2026-10-08T02:31:31.125Z"
+    },
+    {
       "uid": "17867653781",
       "status": "Success",
       "msg": "Like Successfully Sent",
@@ -110,16 +120,6 @@
         "name": "Aʀᴇs...!"
       },
       "time": "2026-10-06T11:47:09.585Z"
-    },
-    {
-      "uid": "955485717",
-      "status": "Failed",
-      "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)",
-      "details": {
-        "status": "error",
-        "msg": "এই আইডির আজকের লাইক লিমিট শেষ! (আপনার পয়েন্ট রিফান্ড করা হয়েছে)"
-      },
-      "time": "2026-10-06T11:44:34.124Z"
     }
   ]
 }
