@@ -8,6 +8,20 @@
   "history": [
     {
       "uid": "8395463224",
+      "status": "Success",
+      "msg": "Sent from Queue",
+      "details": {
+        "status": "success",
+        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
+        "given": 172,
+        "before": 4769,
+        "after": 4941,
+        "name": "ᶜᴱᴼ〆Mᴀsᴀᴅ"
+      },
+      "time": "2026-10-08T10:36:03.750Z"
+    },
+    {
+      "uid": "8395463224",
       "status": "Queued",
       "msg": "Token Expired",
       "details": {
@@ -101,20 +115,6 @@
         "name": "꧁☬SOIJB ☬꧂"
       },
       "time": "2026-10-06T12:03:14.315Z"
-    },
-    {
-      "uid": "5656527738",
-      "status": "Success",
-      "msg": "Like Successfully Sent",
-      "details": {
-        "status": "success",
-        "msg": "লাইক সফলভাবে পাঠানো হয়েছে!",
-        "given": 200,
-        "before": 5147,
-        "after": 5347,
-        "name": "Aʀᴇs...!"
-      },
-      "time": "2026-10-06T11:47:09.585Z"
     }
   ]
 }
