@@ -4,15 +4,24 @@
       "code": "Arafat",
       "note": "Arafat",
       "maxRequests": 5,
-      "usedRequests": 0,
+      "usedRequests": 1,
       "createdAt": 1792864423909,
       "createdTimeStr": "Oct 24, 2026, 11:53:43 PM",
       "expiresAt": 1792886023909,
-      "lastUsedAt": null,
+      "lastUsedAt": "Oct 24, 2026, 11:55:26 PM",
       "active": true
     }
   },
   "logs": [
+    {
+      "id": "mvmp8yewjxf",
+      "type": "SMS_SENT",
+      "token": "Arafat",
+      "number": "01878266244",
+      "message": "Arafat",
+      "status": "DELIVERED",
+      "time": "Oct 24, 2026, 11:55:26 PM"
+    },
     {
       "id": "mvmp81wo",
       "type": "SMS_FAILED",
