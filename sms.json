@@ -14,6 +14,15 @@
   },
   "logs": [
     {
+      "id": "mvmp81wo",
+      "type": "SMS_FAILED",
+      "token": "Arafat",
+      "number": "01871070908",
+      "message": "Dear Rexy kase hoo",
+      "status": "UPSTREAM_ERR (Pending Review)",
+      "time": "Oct 24, 2026, 11:54:44 PM"
+    },
+    {
       "id": "mvmp72qf",
       "type": "SMS_FAILED",
       "token": "Arafat",
