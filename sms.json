@@ -1,6 +1,27 @@
 {
-  "tokens": {},
+  "tokens": {
+    "Arafat": {
+      "code": "Arafat",
+      "note": "Arafat",
+      "maxRequests": 5,
+      "usedRequests": 0,
+      "createdAt": 1792864423909,
+      "createdTimeStr": "Oct 24, 2026, 11:53:43 PM",
+      "expiresAt": 1792886023909,
+      "lastUsedAt": null,
+      "active": true
+    }
+  },
   "logs": [
+    {
+      "id": "mvmp6r5208f9",
+      "type": "ADMIN",
+      "token": "Arafat",
+      "number": "-",
+      "message": "Token created (Limit: 5 req, Duration: 6 hours)",
+      "status": "CREATED",
+      "time": "Oct 24, 2026, 11:53:43 PM"
+    },
     {
       "id": "mvmp601h",
       "type": "SMS_REJECTED",
