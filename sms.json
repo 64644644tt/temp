@@ -12,62 +12,7 @@
       "active": true
     }
   },
-  "logs": [
-    {
-      "id": "mvmpaglgk1g",
-      "type": "SMS_SENT",
-      "token": "Arafat",
-      "number": "01871070908",
-      "message": "Rexy I love you bbe 🥺💋",
-      "status": "DELIVERED",
-      "time": "Oct 24, 2026, 11:56:36 PM"
-    },
-    {
-      "id": "mvmp8yewjxf",
-      "type": "SMS_SENT",
-      "token": "Arafat",
-      "number": "01878266244",
-      "message": "Arafat",
-      "status": "DELIVERED",
-      "time": "Oct 24, 2026, 11:55:26 PM"
-    },
-    {
-      "id": "mvmp81wo",
-      "type": "SMS_FAILED",
-      "token": "Arafat",
-      "number": "01871070908",
-      "message": "Dear Rexy kase hoo",
-      "status": "UPSTREAM_ERR (Pending Review)",
-      "time": "Oct 24, 2026, 11:54:44 PM"
-    },
-    {
-      "id": "mvmp72qf",
-      "type": "SMS_FAILED",
-      "token": "Arafat",
-      "number": "01871070908",
-      "message": "Dear Rexy Your Roblox account has been ban. If you want to unban this, give Arafat something as a gift.",
-      "status": "UPSTREAM_ERR (200)",
-      "time": "Oct 24, 2026, 11:53:58 PM"
-    },
-    {
-      "id": "mvmp6r5208f9",
-      "type": "ADMIN",
-      "token": "Arafat",
-      "number": "-",
-      "message": "Token created (Limit: 5 req, Duration: 6 hours)",
-      "status": "CREATED",
-      "time": "Oct 24, 2026, 11:53:43 PM"
-    },
-    {
-      "id": "mvmp601h",
-      "type": "SMS_REJECTED",
-      "token": "Arafat",
-      "number": "01871070908",
-      "message": "Dear Rexy Your Roblox account has been ban. If you want to unban this, give Arafat something as a gift.",
-      "status": "INVALID_TOKEN",
-      "time": "Oct 24, 2026, 11:53:08 PM"
-    }
-  ],
+  "logs": [],
   "scConfig": {
     "cookie": "XSRF-TOKEN=eyJpdiI6ImlsT3BlNnpNNnF6L3ZBcDhMOFdpRmc9PSIsInZhbHVlIjoiNE1VajVXbmRPd24yWTN1clg4MDRwVTYxaUVKNVhOMnB6OGIxekNySlJUaHppZmhVME1oV0ZrbUZON0UvalREN1lvQVpHUGJNQU5nY2tXUU1XYXdWR09ROXNDcVZOYVRjZUVydmk1b25kcTl3dGtiR0J5T3ZpcWlHYlhJSXhoZjAiLCJtYWMiOiJhYjAyNzM5NDcwZDM1YzA5NTJmZDMxNTkwNWVmMzc5OWEyYjMwZWEzZDUxY2JlMGFlNWFmZTVhZmI3YWM5MjhjIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6ImttdThPc1ZndG9nVFdNOVJTK1NPQWc9PSIsInZhbHVlIjoidFBnSTFsNmtqaFVoaEYyd3RhL1ZpWGFhamlVSGE5UWdMR3pOaXZCTHB4eHc1dWpmclNEUno2WHdyRkdSYkJFWjhpZHJFM01pRHEyaFFiQXh2UDdGNHl1THBUaVdTNE52VDkrcmZDUm9sL2FndmNkbWZscnB3SEZ5UmptRFBYUGkiLCJtYWMiOiJiMjc1Yzg0OTcxMDAyMDI2MjkyM2Y3NjNhYzFlZjJlYjEwZTcyM2NmYmVlYjUwNjMwOTE3OWExMGE4MTkxMWI4IiwidGFnIjoiIn0%3D",
     "csrfToken": "bswVlfxTBbYCv7eBT7V9GTGNAtoWk4GUKrxsXuJX"
