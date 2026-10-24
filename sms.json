@@ -14,6 +14,15 @@
   },
   "logs": [
     {
+      "id": "mvmp72qf",
+      "type": "SMS_FAILED",
+      "token": "Arafat",
+      "number": "01871070908",
+      "message": "Dear Rexy Your Roblox account has been ban. If you want to unban this, give Arafat something as a gift.",
+      "status": "UPSTREAM_ERR (200)",
+      "time": "Oct 24, 2026, 11:53:58 PM"
+    },
+    {
       "id": "mvmp6r5208f9",
       "type": "ADMIN",
       "token": "Arafat",
