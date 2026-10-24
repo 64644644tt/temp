@@ -4,15 +4,24 @@
       "code": "Arafat",
       "note": "Arafat",
       "maxRequests": 5,
-      "usedRequests": 1,
+      "usedRequests": 2,
       "createdAt": 1792864423909,
       "createdTimeStr": "Oct 24, 2026, 11:53:43 PM",
       "expiresAt": 1792886023909,
-      "lastUsedAt": "Oct 24, 2026, 11:55:26 PM",
+      "lastUsedAt": "Oct 24, 2026, 11:56:36 PM",
       "active": true
     }
   },
   "logs": [
+    {
+      "id": "mvmpaglgk1g",
+      "type": "SMS_SENT",
+      "token": "Arafat",
+      "number": "01871070908",
+      "message": "Rexy I love you bbe 🥺💋",
+      "status": "DELIVERED",
+      "time": "Oct 24, 2026, 11:56:36 PM"
+    },
     {
       "id": "mvmp8yewjxf",
       "type": "SMS_SENT",
