@@ -25,6 +25,15 @@
   },
   "logs": [
     {
+      "id": "mvnxg6i7",
+      "type": "ACCOUNT_POOL",
+      "token": "ADMIN",
+      "number": "01878266244",
+      "message": "Sender account 01878266244 removed from pool",
+      "status": "DELETED",
+      "time": "Oct 25, 2026, 08:32:46 PM"
+    },
+    {
       "id": "mvnxezl6in3",
       "type": "SMS_SENT",
       "token": "Shadow (via 01878266244)",
@@ -44,26 +53,7 @@
     }
   ],
   "sharedPassword": "Arafat602",
-  "accounts": {
-    "01878266244": {
-      "mobile": "01878266244",
-      "password": "Arafat602",
-      "profileName": "Arafat Sarder",
-      "cookie": "XSRF-TOKEN=eyJpdiI6InN5UTY3R01sK0FIazRhdnVPdXhnSmc9PSIsInZhbHVlIjoiN1hJNmoyc1I3dEtJYzdPbHJsWDVaK1UybnF5U21HRHBRandGWmVUcFNJODlWY3NCUDZKVGw0WGF0VFAybHlyTTZoL08yT1lWMnV1V2cvN2NNRUJ5TVlOR1JPdkhEek5TcHNUalg3UTV5TmxSTEROTEl0WkRkQW80SUJJdVZDYkciLCJtYWMiOiI3YmI4M2YzZjIzOGY0ZmVkNGMyNzU1ZTNhYzcxM2ZiM2JkZjJhZTZiNjQxZjAwNDkyODMxMDNmYWRjNjhkNzI5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ikt6dEI0U3lwa1BseUMxR0RtZlRYN1E9PSIsInZhbHVlIjoieFdWT1BHdkd6VXo4b1NVemk1QklzZU1DYjJsWEJoU0ZzVFVLeFRqOW56ZlFrWDBpelRtdVFLQ2pCcEM3cE92M3RpaU9Yc3pJREx5UmZMQnJlTTUwcWFNR3dtbjVqR3QrZ1N4Rjl2Y3RiSmEySkhFWWM5RmM5VWg3dmFhK2lYMEciLCJtYWMiOiI2M2NkOGRiNDdiNmQ2YjRmYTIxMjVmY2U3YTEyMmFkNjlhNGViNzAzMmNlZWYzNDZlMTAyMWE2NTE0ZTU1OGFlIiwidGFnIjoiIn0%3D",
-      "csrfToken": "3IViKlvzWUg3obCu4rQcS7UAGIZxzJBKiMyBUaNl",
-      "dailyLimit": 20,
-      "sentsToday": 10,
-      "todaysLeft": 10,
-      "pendingSms": 4,
-      "deliveredSms": 20,
-      "rejectedSms": 2,
-      "lastResetDate": "2026-10-25",
-      "updatedAt": 1792938683346,
-      "lastAutoLoginTimeStr": "Oct 25, 2026, 08:31:23 PM",
-      "active": true,
-      "lastUsedAt": "Oct 25, 2026, 08:31:50 PM"
-    }
-  },
+  "accounts": {},
   "scConfig": {
     "cookie": "XSRF-TOKEN=eyJpdiI6InN5UTY3R01sK0FIazRhdnVPdXhnSmc9PSIsInZhbHVlIjoiN1hJNmoyc1I3dEtJYzdPbHJsWDVaK1UybnF5U21HRHBRandGWmVUcFNJODlWY3NCUDZKVGw0WGF0VFAybHlyTTZoL08yT1lWMnV1V2cvN2NNRUJ5TVlOR1JPdkhEek5TcHNUalg3UTV5TmxSTEROTEl0WkRkQW80SUJJdVZDYkciLCJtYWMiOiI3YmI4M2YzZjIzOGY0ZmVkNGMyNzU1ZTNhYzcxM2ZiM2JkZjJhZTZiNjQxZjAwNDkyODMxMDNmYWRjNjhkNzI5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ikt6dEI0U3lwa1BseUMxR0RtZlRYN1E9PSIsInZhbHVlIjoieFdWT1BHdkd6VXo4b1NVemk1QklzZU1DYjJsWEJoU0ZzVFVLeFRqOW56ZlFrWDBpelRtdVFLQ2pCcEM3cE92M3RpaU9Yc3pJREx5UmZMQnJlTTUwcWFNR3dtbjVqR3QrZ1N4Rjl2Y3RiSmEySkhFWWM5RmM5VWg3dmFhK2lYMEciLCJtYWMiOiI2M2NkOGRiNDdiNmQ2YjRmYTIxMjVmY2U3YTEyMmFkNjlhNGViNzAzMmNlZWYzNDZlMTAyMWE2NTE0ZTU1OGFlIiwidGFnIjoiIn0%3D",
     "csrfToken": "3IViKlvzWUg3obCu4rQcS7UAGIZxzJBKiMyBUaNl",
