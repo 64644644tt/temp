@@ -14,6 +14,15 @@
   },
   "logs": [
     {
+      "id": "mvnfmryf",
+      "type": "SMS_FAILED",
+      "token": "Rexy",
+      "number": "01770412570",
+      "message": "Rexy tmr Sathe ki Tanha permanent  brkup amr besi sms Limit  nai amr number WhatsApp  message daw",
+      "status": "UPSTREAM_ERR (Message Rejected)",
+      "time": "Oct 25, 2026, 12:14:01 PM"
+    },
+    {
       "id": "mvnfk2uypbu",
       "type": "SMS_SENT",
       "token": "Rexy",
