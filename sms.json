@@ -15,15 +15,24 @@
       "code": "Shadow",
       "note": "Sabuj",
       "maxRequests": 500,
-      "usedRequests": 1,
+      "usedRequests": 2,
       "createdAt": 1792929094274,
       "createdTimeStr": "Oct 25, 2026, 05:51:34 PM",
       "expiresAt": 1798113094274,
-      "lastUsedAt": "Oct 25, 2026, 05:52:29 PM",
+      "lastUsedAt": "Oct 25, 2026, 05:55:48 PM",
       "active": true
     }
   },
   "logs": [
+    {
+      "id": "mvnrub5w4lg",
+      "type": "SMS_SENT",
+      "token": "Shadow",
+      "number": "01317339978",
+      "message": "king",
+      "status": "DELIVERED",
+      "time": "Oct 25, 2026, 05:55:48 PM"
+    },
     {
       "id": "mvnrtz94",
       "type": "SMS_FAILED",
