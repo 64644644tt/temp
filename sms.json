@@ -12,7 +12,17 @@
       "active": true
     }
   },
-  "logs": [],
+  "logs": [
+    {
+      "id": "mvnrklgo",
+      "type": "SMS_FAILED",
+      "token": "Rexy",
+      "number": "01878266244",
+      "message": "Arafat",
+      "status": "UPSTREAM_ERR (419)",
+      "time": "Oct 25, 2026, 05:48:15 PM"
+    }
+  ],
   "scConfig": {
     "cookie": "XSRF-TOKEN=eyJpdiI6InRLQjNGUE1sQ3FtdUVhYlRuTENyZ2c9PSIsInZhbHVlIjoickJoK1lWS1hoTjQ5dmNYeisyMEV6S1UzUnRsd2VUWDdjUDRaTWl0eDlnVFJBbUdkeUpZZUxzd21yK09zeVlXZzlDZlc0TmZyUUMrOFBwNHAwUlEvZ2JvUDFwdkYvMEZEL1RDVEVrd3NzV2pvZGx2MFBVWDkxNWdYWmpINTd4T2YiLCJtYWMiOiJjOGUxY2I0NWI5MDA1MWVlYzk4Zjk5NTliZjBmY2Y5ZDQ5NjU4NGU0ODI5YTgwYThjZGVjNjNhYTc1NGNjNzI5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IlRjQ1BaelYrc3NVVHF0dURIejNPdFE9PSIsInZhbHVlIjoiSHFRRDlsTVJMZGVqOUlNTGlTY0piMzZLTkQvZFViL1VaYjAvS0Z6WnYxVGRxRHNPWThCUk56eWh3anJhemxrNnZhclNraG1ZZ0tCb3ZMQlFBM0c1Qnd3VVpyQXlZRUhRcTVER0Q0MktkRFI4ait5VVlURjRiMStlejZsMk1GRXIiLCJtYWMiOiI4NDEyMDg5ODJjYmFhZTJhMjZkNDYxNTRkMTk5MzFkN2U0OGEzYzcxYzhiMjVlNTliYmNlZTlmM2NkZjM4NDJlIiwidGFnIjoiIn0%3D",
     "csrfToken": "WhBliwvkJlfezU2w8cwrsPI7YDwcB2acndpUxEgS",
