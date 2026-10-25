@@ -25,6 +25,15 @@
   },
   "logs": [
     {
+      "id": "mvnrv9um",
+      "type": "SMS_FAILED",
+      "token": "Shadow",
+      "number": "01878266244",
+      "message": "Arafat",
+      "status": "UPSTREAM_ERR (200)",
+      "time": "Oct 25, 2026, 05:56:33 PM"
+    },
+    {
       "id": "mvnruyo4",
       "type": "SMS_FAILED",
       "token": "Shadow",
