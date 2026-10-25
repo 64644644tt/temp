@@ -15,15 +15,24 @@
       "code": "Shadow",
       "note": "Sabuj",
       "maxRequests": 500,
-      "usedRequests": 0,
+      "usedRequests": 1,
       "createdAt": 1792929094274,
       "createdTimeStr": "Oct 25, 2026, 05:51:34 PM",
       "expiresAt": 1798113094274,
-      "lastUsedAt": null,
+      "lastUsedAt": "Oct 25, 2026, 05:52:29 PM",
       "active": true
     }
   },
   "logs": [
+    {
+      "id": "mvnrq1nl2na",
+      "type": "SMS_SENT",
+      "token": "Shadow",
+      "number": "01878266244",
+      "message": "Hello",
+      "status": "DELIVERED",
+      "time": "Oct 25, 2026, 05:52:29 PM"
+    },
     {
       "id": "mvnrov42v6tu",
       "type": "ADMIN",
