@@ -4,15 +4,24 @@
       "code": "Rexy",
       "note": "Rexy",
       "maxRequests": 500,
-      "usedRequests": 2,
+      "usedRequests": 3,
       "createdAt": 1792892575204,
       "createdTimeStr": "Oct 25, 2026, 07:42:55 AM",
       "expiresAt": 1798076575204,
-      "lastUsedAt": "Oct 25, 2026, 12:04:13 PM",
+      "lastUsedAt": "Oct 25, 2026, 12:11:55 PM",
       "active": true
     }
   },
   "logs": [
+    {
+      "id": "mvnfk2uypbu",
+      "type": "SMS_SENT",
+      "token": "Rexy",
+      "number": "01770412570",
+      "message": "hello",
+      "status": "DELIVERED",
+      "time": "Oct 25, 2026, 12:11:55 PM"
+    },
     {
       "id": "mvnfa64mq6c",
       "type": "SMS_SENT",
