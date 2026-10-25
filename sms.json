@@ -14,6 +14,15 @@
   },
   "logs": [
     {
+      "id": "mvn6j8uv",
+      "type": "SMS_FAILED",
+      "token": "Rexy",
+      "number": "01770412570",
+      "message": "Hello",
+      "status": "UPSTREAM_ERR (419)",
+      "time": "Oct 25, 2026, 07:59:20 AM"
+    },
+    {
       "id": "mvn6dirr",
       "type": "SMS_FAILED",
       "token": "Rexy",
