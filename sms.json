@@ -23,10 +23,43 @@
       "active": true
     }
   },
-  "logs": [],
+  "logs": [
+    {
+      "id": "mvnxee36",
+      "type": "PROFILE_SYNC",
+      "token": "SYSTEM",
+      "number": "01878266244",
+      "message": "Synced live /profile quota & verified session",
+      "status": "SYNCED",
+      "time": "Oct 25, 2026, 08:31:23 PM"
+    }
+  ],
+  "sharedPassword": "Arafat602",
+  "accounts": {
+    "01878266244": {
+      "mobile": "01878266244",
+      "password": "Arafat602",
+      "profileName": "Arafat Sarder",
+      "cookie": "XSRF-TOKEN=eyJpdiI6InN5UTY3R01sK0FIazRhdnVPdXhnSmc9PSIsInZhbHVlIjoiN1hJNmoyc1I3dEtJYzdPbHJsWDVaK1UybnF5U21HRHBRandGWmVUcFNJODlWY3NCUDZKVGw0WGF0VFAybHlyTTZoL08yT1lWMnV1V2cvN2NNRUJ5TVlOR1JPdkhEek5TcHNUalg3UTV5TmxSTEROTEl0WkRkQW80SUJJdVZDYkciLCJtYWMiOiI3YmI4M2YzZjIzOGY0ZmVkNGMyNzU1ZTNhYzcxM2ZiM2JkZjJhZTZiNjQxZjAwNDkyODMxMDNmYWRjNjhkNzI5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ikt6dEI0U3lwa1BseUMxR0RtZlRYN1E9PSIsInZhbHVlIjoieFdWT1BHdkd6VXo4b1NVemk1QklzZU1DYjJsWEJoU0ZzVFVLeFRqOW56ZlFrWDBpelRtdVFLQ2pCcEM3cE92M3RpaU9Yc3pJREx5UmZMQnJlTTUwcWFNR3dtbjVqR3QrZ1N4Rjl2Y3RiSmEySkhFWWM5RmM5VWg3dmFhK2lYMEciLCJtYWMiOiI2M2NkOGRiNDdiNmQ2YjRmYTIxMjVmY2U3YTEyMmFkNjlhNGViNzAzMmNlZWYzNDZlMTAyMWE2NTE0ZTU1OGFlIiwidGFnIjoiIn0%3D",
+      "csrfToken": "3IViKlvzWUg3obCu4rQcS7UAGIZxzJBKiMyBUaNl",
+      "dailyLimit": 20,
+      "sentsToday": 9,
+      "todaysLeft": 11,
+      "pendingSms": 4,
+      "deliveredSms": 19,
+      "rejectedSms": 2,
+      "lastResetDate": "2026-10-25",
+      "updatedAt": 1792938683346,
+      "lastAutoLoginTimeStr": "Oct 25, 2026, 08:31:23 PM",
+      "active": true
+    }
+  },
   "scConfig": {
-    "cookie": "XSRF-TOKEN=eyJpdiI6IjlkNjEyd2hkR1ZyR09yTUk5RSsyYWc9PSIsInZhbHVlIjoiWElaK0VxbHRwQ2lQWmFFbUJQeEZhVDQ1T2taZVRVYnF4b3VNV2h3d0FTTHdleGs5dGV2czluaEthVnViaWVwQVBhVFIrZGwrdUVIUGFIOXN2VE5CdGxoZGNPQUtIVFMyM3FEVm9jYlRuWFlGUVVGQWlYSm0vd2plVVhnRDJMYWwiLCJtYWMiOiJiMmE0ZDBhMjViMTMzYjc1MGQ5MTQ2MmJhNjdhNjIzODdkOGZjM2E1NTdmZTRiNmMwZTFmYzNmMTFhOWU5MGNkIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IlJSS1kwMW8xQUd0QlB0RmhoY1dpWlE9PSIsInZhbHVlIjoic2l6NzZUVGw2NUdkUkNPVXA5aitIMThteHN2WkJFSHE5Nmh1VTUva2oyU05tbEJ4RmlPckMySnFqdXVnenBQb3EwSXFONVVnd0owVUtnOVoxczBtTFM1TEcvdWYzdWtENzVCaW82OHQwTWR6WWJEWjRtc1FOVE5STEQrQ2lsWVEiLCJtYWMiOiIxNzE2MDA5ODMzNzVkMmYzNDE4NjA1ZTEyMGViMTdiYjQyNzIyNzAyMGYzNmM0OGIzNGYzY2M5NzMzMTNiZjBiIiwidGFnIjoiIn0%3D",
-    "csrfToken": "eGJkMHLqmWNer6UbrYY7fryG2OwmgvAS3MeQdrpl",
-    "updatedAt": 1792929004577
+    "cookie": "XSRF-TOKEN=eyJpdiI6InN5UTY3R01sK0FIazRhdnVPdXhnSmc9PSIsInZhbHVlIjoiN1hJNmoyc1I3dEtJYzdPbHJsWDVaK1UybnF5U21HRHBRandGWmVUcFNJODlWY3NCUDZKVGw0WGF0VFAybHlyTTZoL08yT1lWMnV1V2cvN2NNRUJ5TVlOR1JPdkhEek5TcHNUalg3UTV5TmxSTEROTEl0WkRkQW80SUJJdVZDYkciLCJtYWMiOiI3YmI4M2YzZjIzOGY0ZmVkNGMyNzU1ZTNhYzcxM2ZiM2JkZjJhZTZiNjQxZjAwNDkyODMxMDNmYWRjNjhkNzI5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ikt6dEI0U3lwa1BseUMxR0RtZlRYN1E9PSIsInZhbHVlIjoieFdWT1BHdkd6VXo4b1NVemk1QklzZU1DYjJsWEJoU0ZzVFVLeFRqOW56ZlFrWDBpelRtdVFLQ2pCcEM3cE92M3RpaU9Yc3pJREx5UmZMQnJlTTUwcWFNR3dtbjVqR3QrZ1N4Rjl2Y3RiSmEySkhFWWM5RmM5VWg3dmFhK2lYMEciLCJtYWMiOiI2M2NkOGRiNDdiNmQ2YjRmYTIxMjVmY2U3YTEyMmFkNjlhNGViNzAzMmNlZWYzNDZlMTAyMWE2NTE0ZTU1OGFlIiwidGFnIjoiIn0%3D",
+    "csrfToken": "3IViKlvzWUg3obCu4rQcS7UAGIZxzJBKiMyBUaNl",
+    "mobile": "01878266244",
+    "password": "Arafat602",
+    "updatedAt": 1792938683346,
+    "lastAutoLoginTimeStr": "Oct 25, 2026, 08:31:23 PM"
   }
 }
