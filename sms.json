@@ -10,9 +10,29 @@
       "expiresAt": 1798076575204,
       "lastUsedAt": "Oct 25, 2026, 12:11:55 PM",
       "active": true
+    },
+    "Shadow": {
+      "code": "Shadow",
+      "note": "Sabuj",
+      "maxRequests": 500,
+      "usedRequests": 0,
+      "createdAt": 1792929094274,
+      "createdTimeStr": "Oct 25, 2026, 05:51:34 PM",
+      "expiresAt": 1798113094274,
+      "lastUsedAt": null,
+      "active": true
     }
   },
   "logs": [
+    {
+      "id": "mvnrov42v6tu",
+      "type": "ADMIN",
+      "token": "Shadow",
+      "number": "-",
+      "message": "Token created (Limit: 500 req, Duration: 60 days)",
+      "status": "CREATED",
+      "time": "Oct 25, 2026, 05:51:34 PM"
+    },
     {
       "id": "mvnrmxwh",
       "type": "ADMIN",
