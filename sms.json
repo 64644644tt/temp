@@ -25,6 +25,15 @@
   },
   "logs": [
     {
+      "id": "mvnxg8rs",
+      "type": "ACCOUNT_POOL",
+      "token": "ADMIN",
+      "number": "01878266244",
+      "message": "Sender account 01878266244 removed from pool",
+      "status": "DELETED",
+      "time": "Oct 25, 2026, 08:32:49 PM"
+    },
+    {
       "id": "mvnxg6i7",
       "type": "ACCOUNT_POOL",
       "token": "ADMIN",
