@@ -1,6 +1,27 @@
 {
-  "tokens": {},
+  "tokens": {
+    "Rexy": {
+      "code": "Rexy",
+      "note": "Rexy",
+      "maxRequests": 500,
+      "usedRequests": 0,
+      "createdAt": 1792892575204,
+      "createdTimeStr": "Oct 25, 2026, 07:42:55 AM",
+      "expiresAt": 1798076575204,
+      "lastUsedAt": null,
+      "active": true
+    }
+  },
   "logs": [
+    {
+      "id": "mvn5y4tg821p",
+      "type": "ADMIN",
+      "token": "Rexy",
+      "number": "-",
+      "message": "Token created (Limit: 500 req, Duration: 60 days)",
+      "status": "CREATED",
+      "time": "Oct 25, 2026, 07:42:55 AM"
+    },
     {
       "id": "mvn5vte3",
       "type": "ADMIN",
