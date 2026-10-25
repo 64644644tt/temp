@@ -25,6 +25,15 @@
   },
   "logs": [
     {
+      "id": "mvnrtz94",
+      "type": "SMS_FAILED",
+      "token": "Shadow",
+      "number": "01317339978",
+      "message": "bot",
+      "status": "UPSTREAM_ERR (Pending Review)",
+      "time": "Oct 25, 2026, 05:55:32 PM"
+    },
+    {
       "id": "mvnrt94l",
       "type": "SMS_FAILED",
       "token": "Shadow",
