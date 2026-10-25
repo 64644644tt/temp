@@ -25,6 +25,15 @@
   },
   "logs": [
     {
+      "id": "mvnruyls",
+      "type": "SMS_FAILED",
+      "token": "Shadow",
+      "number": "01317339978",
+      "message": "king",
+      "status": "UPSTREAM_ERR (200)",
+      "time": "Oct 25, 2026, 05:56:18 PM"
+    },
+    {
       "id": "mvnrukqp",
       "type": "SMS_FAILED",
       "token": "Shadow",
