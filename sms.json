@@ -14,7 +14,25 @@
   },
   "logs": [
     {
-      "id": "mvn61i5i",
+      "id": "mvn61ief",
+      "type": "SMS_FAILED",
+      "token": "Rexy",
+      "number": "01878266244",
+      "message": "Hello",
+      "status": "UPSTREAM_ERR (419)",
+      "time": "Oct 25, 2026, 07:45:32 AM"
+    },
+    {
+      "id": "mvn61i8r",
+      "type": "SMS_FAILED",
+      "token": "Rexy",
+      "number": "01878266244",
+      "message": "Hello",
+      "status": "UPSTREAM_ERR (419)",
+      "time": "Oct 25, 2026, 07:45:32 AM"
+    },
+    {
+      "id": "mvn61i7j",
       "type": "SMS_FAILED",
       "token": "Rexy",
       "number": "01878266244",
