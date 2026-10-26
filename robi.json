@@ -1,5 +1,14 @@
 {
-  "users": {},
+  "users": {
+    "7326996884": {
+      "tg_user_id": 7326996884,
+      "first_name": "椹|•sᴇɴᴘᴀɪシ",
+      "username": "arafatas602",
+      "selected_msisdn": null,
+      "created_at": 1793020429.5961528,
+      "updated_at": 1793020429.5961528
+    }
+  },
   "accounts": {},
-  "updated_at": 1793020372
+  "updated_at": 1793020430
 }
