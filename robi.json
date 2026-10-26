@@ -6,13 +6,13 @@
       "username": "arafatas602",
       "selected_msisdn": "01878266244",
       "created_at": 1793020429.5961528,
-      "updated_at": 1793020429.5961528
+      "updated_at": 1793020812.5661762
     },
     "7370175624": {
       "tg_user_id": 7370175624,
       "first_name": "⚡ 안와르 ⚡",
       "username": "Xnowar_Sheikh",
-      "selected_msisdn": null,
+      "selected_msisdn": "01621264517",
       "created_at": 1793020778.199809,
       "updated_at": 1793020778.199809
     }
@@ -40,7 +40,30 @@
       "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 0,
       "updated_at": 1793020672.954192
+    },
+    "01621264517": {
+      "tg_user_id": 7370175624,
+      "msisdn": "01621264517",
+      "name": "Anowar",
+      "paytype": "Prepaid",
+      "email": "mranowarhossain999@gmail.com",
+      "birthday": "2007-06-27",
+      "age_of_network": "১৫ জুন, ২০২৪",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiI4NjkzOTk1Ni0yNTU0LTRhMDEtOGYwNC00NzEzNDgwYWU1ZTEiLCJzdWIiOiI4NDQ1MDU5IiwiaWxrIjoiKzg4MDE2MjEyNjQ1MTciLCJwYXl0eXBlIjoiZ3Vlc3QiLCJ0eXBlIjoiYWNjZXNzIiwiaXNzIjoiYWlydGVsIiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDozMDAwIiwicGx0IjoiYW5kcm9pZCIsInZlciI6IjEwLjE1LjIiLCJlbnYiOiJkZXZlbG9wbWVudCIsInVzZXJUeXBlIjoicGFydG5lciIsIm1hcmtldFNlZ21lbnQiOiJpbmRpdmlkdWFsIiwiY3JlYXRlZEF0IjoxNzE4NDU0Nzg1LCJpc0VtcGxveWVlIjpmYWxzZSwibWFpblByb2R1Y3QiOjMwNCwic2ltVHlwZSI6Im5vcm1hbCIsImlhdCI6MTc5MzAyMDgxNywiZXhwIjoxNzkzMTA3MjE3fQ.NA01GmFosGHGjFHdgj5gs_VfnDAC9PQH5OngHyJPdOM",
+      "access_token_expires_at": 1793107217,
+      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiI4NjkzOTk1Ni0yNTU0LTRhMDEtOGYwNC00NzEzNDgwYWU1ZTEiLCJzdWIiOiI4NDQ1MDU5IiwiaWxrIjoiY3VzdG9tZXIiLCJ0eXBlIjoicmVmcmVzaCIsImlhdCI6MTc5MzAyMDgxNywiZXhwIjoxODI0NTU2ODE3fQ.Dqog_OzI-nfXLR37DTa6Tin3ByyFwKAaaQYvGH9VRVQ",
+      "refresh_token_expires_at": 1824556817,
+      "auto_claim": true,
+      "is_active": true,
+      "logged_out_notified": false,
+      "created_at": 1793020819.5023456,
+      "next_claim_at": 1793073600.0,
+      "last_claim_date": "2026-10-26",
+      "last_claim_at": 1793020819.754976,
+      "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
+      "total_bot_claimed": 0,
+      "updated_at": 1793020819.7549777
     }
   },
-  "updated_at": 1793020778
+  "updated_at": 1793020820
 }
