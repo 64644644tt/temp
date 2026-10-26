@@ -6,7 +6,7 @@
       "username": "arafatas602",
       "selected_msisdn": "01878266244",
       "created_at": 1793020429.5961528,
-      "updated_at": 1793020821.6455934
+      "updated_at": 1793021001.685782
     },
     "7370175624": {
       "tg_user_id": 7370175624,
@@ -14,7 +14,7 @@
       "username": "Xnowar_Sheikh",
       "selected_msisdn": "01621264517",
       "created_at": 1793020778.199809,
-      "updated_at": 1793020928.5858557
+      "updated_at": 1793020970.2392514
     }
   },
   "accounts": {
@@ -39,7 +39,8 @@
       "last_claim_at": 1793020672.95419,
       "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 0,
-      "updated_at": 1793020672.954192
+      "updated_at": 1793020672.954192,
+      "last_checked_at": 1793023975.0633225
     },
     "01621264517": {
       "tg_user_id": 7370175624,
@@ -54,16 +55,16 @@
       "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiI4NjkzOTk1Ni0yNTU0LTRhMDEtOGYwNC00NzEzNDgwYWU1ZTEiLCJzdWIiOiI4NDQ1MDU5IiwiaWxrIjoiY3VzdG9tZXIiLCJ0eXBlIjoicmVmcmVzaCIsImlhdCI6MTc5MzAyMDgxNywiZXhwIjoxODI0NTU2ODE3fQ.Dqog_OzI-nfXLR37DTa6Tin3ByyFwKAaaQYvGH9VRVQ",
       "refresh_token_expires_at": 1824556817,
       "auto_claim": true,
-      "is_active": true,
-      "logged_out_notified": false,
+      "is_active": false,
+      "logged_out_notified": true,
       "created_at": 1793020819.5023456,
       "next_claim_at": 1793073600.0,
       "last_claim_date": "2026-10-26",
       "last_claim_at": 1793020837.2827282,
-      "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
+      "last_claim_status": "❌ লগআউট হয়ে গেছে",
       "total_bot_claimed": 0,
-      "updated_at": 1793020837.2827294
+      "updated_at": 1793023976.538941
     }
   },
-  "updated_at": 1793020933
+  "updated_at": 1793023977
 }
