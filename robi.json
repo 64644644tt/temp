@@ -7,6 +7,14 @@
       "selected_msisdn": "01878266244",
       "created_at": 1793020429.5961528,
       "updated_at": 1793020429.5961528
+    },
+    "7370175624": {
+      "tg_user_id": 7370175624,
+      "first_name": "⚡ 안와르 ⚡",
+      "username": "Xnowar_Sheikh",
+      "selected_msisdn": null,
+      "created_at": 1793020778.199809,
+      "updated_at": 1793020778.199809
     }
   },
   "accounts": {
@@ -34,5 +42,5 @@
       "updated_at": 1793020672.954192
     }
   },
-  "updated_at": 1793020673
+  "updated_at": 1793020778
 }
