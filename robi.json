@@ -4,11 +4,35 @@
       "tg_user_id": 7326996884,
       "first_name": "椹|•sᴇɴᴘᴀɪシ",
       "username": "arafatas602",
-      "selected_msisdn": null,
+      "selected_msisdn": "01878266244",
       "created_at": 1793020429.5961528,
       "updated_at": 1793020429.5961528
     }
   },
-  "accounts": {},
-  "updated_at": 1793020430
+  "accounts": {
+    "01878266244": {
+      "tg_user_id": 7326996884,
+      "msisdn": "01878266244",
+      "name": "ARAFAT SARDER",
+      "paytype": "Prepaid",
+      "email": "arafatas602@gmail.com",
+      "birthday": "2000-11-23",
+      "age_of_network": "২৩ ডিসেম্বর, ২০১৭",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiIxNTQzZjJmOC0zZDkwLTRmYTgtYmFjNy0zMDQ5NTU1MzQ1ZWEiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6Iis4ODAxODc4MjY2MjQ0IiwicGF5dHlwZSI6InByZXBhaWQiLCJ0eXBlIjoiYWNjZXNzIiwiaXNzIjoicm9iaSIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIsInBsdCI6ImFuZHJvaWQiLCJ2ZXIiOiIxMC4xNS4yIiwiZW52IjoiZGV2ZWxvcG1lbnQiLCJ1c2VyVHlwZSI6ImJyYW5kIiwibWFya2V0U2VnbWVudCI6ImluZGl2aWR1YWwiLCJjcmVhdGVkQXQiOjE2NjcxMjUyOTMsImlzRW1wbG95ZWUiOmZhbHNlLCJtYWluUHJvZHVjdCI6MjYwLCJzaW1UeXBlIjoibm9ybWFsIiwiaWF0IjoxNzkzMDIwNjcxLCJleHAiOjE3OTMxMDcwNzF9.IX8k0I5gP51UKEAc7UBnsrF-2mF7MGNkHHhrTZayFNE",
+      "access_token_expires_at": 1793107071,
+      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiIxNTQzZjJmOC0zZDkwLTRmYTgtYmFjNy0zMDQ5NTU1MzQ1ZWEiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6ImN1c3RvbWVyIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3OTMwMjA2NzEsImV4cCI6MTgyNDU1NjY3MX0.97ZjiYZoymLx77c1NiFmJRIp00Y_ZlwL_yBWvpu3n2I",
+      "refresh_token_expires_at": 1824556671,
+      "auto_claim": true,
+      "is_active": true,
+      "logged_out_notified": false,
+      "created_at": 1793020672.7025492,
+      "next_claim_at": 1793073600.0,
+      "last_claim_date": "2026-10-26",
+      "last_claim_at": 1793020672.95419,
+      "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
+      "total_bot_claimed": 0,
+      "updated_at": 1793020672.954192
+    }
+  },
+  "updated_at": 1793020673
 }
