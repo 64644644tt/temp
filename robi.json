@@ -15,6 +15,14 @@
       "selected_msisdn": "01621264517",
       "created_at": 1793020778.199809,
       "updated_at": 1793020970.2392514
+    },
+    "7836958407": {
+      "tg_user_id": 7836958407,
+      "first_name": "Rohani",
+      "username": "rataprven",
+      "selected_msisdn": null,
+      "created_at": 1793026185.8679683,
+      "updated_at": 1793026185.8679683
     }
   },
   "accounts": {
@@ -66,5 +74,5 @@
       "updated_at": 1793023976.538941
     }
   },
-  "updated_at": 1793023977
+  "updated_at": 1793026186
 }
