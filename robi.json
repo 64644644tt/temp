@@ -20,7 +20,7 @@
       "tg_user_id": 7836958407,
       "first_name": "Rohani",
       "username": "rataprven",
-      "selected_msisdn": null,
+      "selected_msisdn": "01887708928",
       "created_at": 1793026185.8679683,
       "updated_at": 1793026185.8679683
     }
@@ -72,7 +72,30 @@
       "last_claim_status": "❌ লগআউট হয়ে গেছে",
       "total_bot_claimed": 0,
       "updated_at": 1793023976.538941
+    },
+    "01887708928": {
+      "tg_user_id": 7836958407,
+      "msisdn": "01887708928",
+      "name": "Sk abdur rahim ",
+      "paytype": "Prepaid",
+      "email": "যুক্ত করা নেই",
+      "birthday": "2000-01-09",
+      "age_of_network": "১০ জুলাই, ২০২১",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiI1N2JiNzA3Yi1hODgzLTQwYzUtYTZmZS0xY2Q1YjhmNjY2MjUiLCJzdWIiOiIzMzkyNzE3NyIsImlsayI6Iis4ODAxODg3NzA4OTI4IiwicGF5dHlwZSI6InByZXBhaWQiLCJ0eXBlIjoiYWNjZXNzIiwiaXNzIjoicm9iaSIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIsInBsdCI6ImFuZHJvaWQiLCJ2ZXIiOiIxMC4xNS4yIiwiZW52IjoiZGV2ZWxvcG1lbnQiLCJ1c2VyVHlwZSI6ImJyYW5kIiwibWFya2V0U2VnbWVudCI6ImluZGl2aWR1YWwiLCJjcmVhdGVkQXQiOjE3NTc5Mzc0MjQsImlzRW1wbG95ZWUiOmZhbHNlLCJtYWluUHJvZHVjdCI6MjM1LCJzaW1UeXBlIjoibm9ybWFsIiwiaWF0IjoxNzkzMDI2MjQ1LCJleHAiOjE3OTMxMTI2NDV9.qLexyYpCw394DsJ8r60uFi7DttkXoy2B3gT1CXhurew",
+      "access_token_expires_at": 1793112645,
+      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiI1N2JiNzA3Yi1hODgzLTQwYzUtYTZmZS0xY2Q1YjhmNjY2MjUiLCJzdWIiOiIzMzkyNzE3NyIsImlsayI6ImN1c3RvbWVyIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3OTMwMjYyNDUsImV4cCI6MTgyNDU2MjI0NX0.zM8JpxkHiazfPiwmEoZw2NnK9Q2vK2Mctx776GoVZCA",
+      "refresh_token_expires_at": 1824562245,
+      "auto_claim": true,
+      "is_active": true,
+      "logged_out_notified": false,
+      "created_at": 1793026248.1200302,
+      "next_claim_at": 1793073600.0,
+      "last_claim_date": "2026-10-26",
+      "last_claim_at": 1793026248.5434632,
+      "last_claim_status": "✅ +5 কয়েন",
+      "total_bot_claimed": 5,
+      "updated_at": 1793026248.5434644
     }
   },
-  "updated_at": 1793026186
+  "updated_at": 1793026248
 }
