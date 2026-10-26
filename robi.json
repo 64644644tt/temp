@@ -14,7 +14,7 @@
       "username": "Xnowar_Sheikh",
       "selected_msisdn": "01621264517",
       "created_at": 1793020778.199809,
-      "updated_at": 1793020778.199809
+      "updated_at": 1793020836.3297393
     }
   },
   "accounts": {
@@ -59,11 +59,11 @@
       "created_at": 1793020819.5023456,
       "next_claim_at": 1793073600.0,
       "last_claim_date": "2026-10-26",
-      "last_claim_at": 1793020819.754976,
+      "last_claim_at": 1793020837.2827282,
       "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 0,
-      "updated_at": 1793020829.4652781
+      "updated_at": 1793020837.2827294
     }
   },
-  "updated_at": 1793020829
+  "updated_at": 1793020837
 }
