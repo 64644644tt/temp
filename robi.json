@@ -6,7 +6,7 @@
       "username": "arafatas602",
       "selected_msisdn": "01878266244",
       "created_at": 1793020429.5961528,
-      "updated_at": 1793070247.6150348
+      "updated_at": 1793070314.0132565
     },
     "7370175624": {
       "tg_user_id": 7370175624,
@@ -44,10 +44,10 @@
       "created_at": 1793020672.7025492,
       "next_claim_at": 1793073600.0,
       "last_claim_date": "2026-10-27",
-      "last_claim_at": 1793070248.5645046,
+      "last_claim_at": 1793070314.6221962,
       "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 5,
-      "updated_at": 1793070248.5645063,
+      "updated_at": 1793070314.6221974,
       "last_checked_at": 1793067216.6851
     },
     "01621264517": {
@@ -98,5 +98,5 @@
       "last_checked_at": 1793067217.9447458
     }
   },
-  "updated_at": 1793070249
+  "updated_at": 1793070315
 }
