@@ -48,7 +48,7 @@
       "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 5,
       "updated_at": 1793070314.6221974,
-      "last_checked_at": 1793067216.6851
+      "last_checked_at": 1793070820.0190105
     },
     "01621264517": {
       "tg_user_id": 7370175624,
@@ -89,14 +89,14 @@
       "is_active": true,
       "logged_out_notified": false,
       "created_at": 1793026248.1200302,
-      "next_claim_at": 1793073600.0,
-      "last_claim_date": "2026-10-26",
-      "last_claim_at": 1793033599.9277713,
-      "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
-      "total_bot_claimed": 5,
-      "updated_at": 1793033599.927773,
-      "last_checked_at": 1793067217.9447458
+      "next_claim_at": 1793160000.0,
+      "last_claim_date": "2026-10-27",
+      "last_claim_at": 1793073629.0347824,
+      "last_claim_status": "✅ +5 কয়েন",
+      "total_bot_claimed": 10,
+      "updated_at": 1793073629.0347836,
+      "last_checked_at": 1793070821.2940707
     }
   },
-  "updated_at": 1793070315
+  "updated_at": 1793073629
 }
