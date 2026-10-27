@@ -6,7 +6,7 @@
       "username": "arafatas602",
       "selected_msisdn": "01806979170",
       "created_at": 1793020429.5961528,
-      "updated_at": 1793070314.0132565
+      "updated_at": 1793074062.483093
     },
     "7370175624": {
       "tg_user_id": 7370175624,
@@ -22,7 +22,7 @@
       "username": "rataprven",
       "selected_msisdn": "01887708928",
       "created_at": 1793026185.8679683,
-      "updated_at": 1793033597.9218376
+      "updated_at": 1793074517.8586972
     }
   },
   "accounts": {
@@ -48,7 +48,7 @@
       "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 5,
       "updated_at": 1793070314.6221974,
-      "last_checked_at": 1793070820.0190105
+      "last_checked_at": 1793078028.0419588
     },
     "01621264517": {
       "tg_user_id": 7370175624,
@@ -91,11 +91,11 @@
       "created_at": 1793026248.1200302,
       "next_claim_at": 1793160000.0,
       "last_claim_date": "2026-10-27",
-      "last_claim_at": 1793073629.0347824,
-      "last_claim_status": "✅ +5 কয়েন",
+      "last_claim_at": 1793080424.3190298,
+      "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 10,
-      "updated_at": 1793073629.0347836,
-      "last_checked_at": 1793070821.2940707
+      "updated_at": 1793080424.3190312,
+      "last_checked_at": 1793078029.3228414
     },
     "01806979170": {
       "tg_user_id": 7326996884,
@@ -118,8 +118,9 @@
       "last_claim_at": 1793074033.9681764,
       "last_claim_status": "✅ +5 কয়েন",
       "total_bot_claimed": 5,
-      "updated_at": 1793074033.9681776
+      "updated_at": 1793074033.9681776,
+      "last_checked_at": 1793078030.5921986
     }
   },
-  "updated_at": 1793074034
+  "updated_at": 1793080424
 }
