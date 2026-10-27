@@ -14,7 +14,7 @@
       "username": "Xnowar_Sheikh",
       "selected_msisdn": "01621264517",
       "created_at": 1793020778.199809,
-      "updated_at": 1793020970.2392514
+      "updated_at": 1793083198.8265824
     },
     "7836958407": {
       "tg_user_id": 7836958407,
@@ -48,7 +48,7 @@
       "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 5,
       "updated_at": 1793070314.6221974,
-      "last_checked_at": 1793078028.0419588
+      "last_checked_at": 1793081632.6703405
     },
     "01621264517": {
       "tg_user_id": 7370175624,
@@ -71,7 +71,7 @@
       "last_claim_at": 1793020837.2827282,
       "last_claim_status": "❌ লগআউট হয়ে গেছে",
       "total_bot_claimed": 0,
-      "updated_at": 1793023976.538941
+      "updated_at": 1793083200.735756
     },
     "01887708928": {
       "tg_user_id": 7836958407,
@@ -95,7 +95,7 @@
       "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 10,
       "updated_at": 1793080428.0829668,
-      "last_checked_at": 1793078029.3228414
+      "last_checked_at": 1793081633.944853
     },
     "01806979170": {
       "tg_user_id": 7326996884,
@@ -119,8 +119,8 @@
       "last_claim_status": "✅ +5 কয়েন",
       "total_bot_claimed": 5,
       "updated_at": 1793074033.9681776,
-      "last_checked_at": 1793078030.5921986
+      "last_checked_at": 1793081635.2182972
     }
   },
-  "updated_at": 1793080428
+  "updated_at": 1793083201
 }
