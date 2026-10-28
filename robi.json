@@ -22,7 +22,7 @@
       "username": "rataprven",
       "selected_msisdn": "01887708928",
       "created_at": 1793026185.8679683,
-      "updated_at": 1793080427.4524808
+      "updated_at": 1793207139.301538
     }
   },
   "accounts": {
@@ -91,10 +91,11 @@
       "created_at": 1793026248.1200302,
       "next_claim_at": 1793246400.0,
       "last_claim_date": "2026-10-28",
-      "last_claim_at": 1793165094.3045516,
-      "last_claim_status": "✅ +5 কয়েন",
+      "last_claim_at": 1793207141.0739093,
+      "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 15,
-      "updated_at": 1793165094.304553
+      "updated_at": 1793207141.0739105,
+      "last_checked_at": 1793204161.2545242
     },
     "01806979170": {
       "tg_user_id": 7326996884,
@@ -121,5 +122,5 @@
       "last_checked_at": 1793157328.7430031
     }
   },
-  "updated_at": 1793165094
+  "updated_at": 1793207141
 }
