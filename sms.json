@@ -25,6 +25,15 @@
   },
   "logs": [
     {
+      "id": "mvsv1i1j",
+      "type": "SMS_REJECTED",
+      "token": "rexy",
+      "number": "01770412570",
+      "message": "hello",
+      "status": "INVALID_TOKEN",
+      "time": "Oct 29, 2026, 07:24:13 AM"
+    },
+    {
       "id": "mvsuy3runrf",
       "type": "SMS_SENT",
       "token": "Rexy (via 01878266244)",
@@ -285,8 +294,7 @@
       "lastResetDate": "2026-10-29",
       "updatedAt": 1793236062839,
       "lastAutoLoginTimeStr": "Oct 29, 2026, 07:07:42 AM",
-      "active": true,
-      "lastUsedAt": "Oct 29, 2026, 07:21:34 AM"
+      "active": true
     },
     "01317339978": {
       "mobile": "01317339978",
