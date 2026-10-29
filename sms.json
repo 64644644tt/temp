@@ -15,15 +15,24 @@
       "code": "Shadow",
       "note": "Sabuj",
       "maxRequests": 500,
-      "usedRequests": 6,
+      "usedRequests": 7,
       "createdAt": 1792929094274,
       "createdTimeStr": "Oct 25, 2026, 05:51:34 PM",
       "expiresAt": 1798113094274,
-      "lastUsedAt": "Oct 26, 2026, 02:35:50 AM",
+      "lastUsedAt": "Oct 29, 2026, 07:12:02 AM",
       "active": true
     }
   },
   "logs": [
+    {
+      "id": "mvsulu618ey",
+      "type": "SMS_SENT",
+      "token": "Shadow (via 01878266244)",
+      "number": "01878266244",
+      "message": "Arafat",
+      "status": "DELIVERED",
+      "time": "Oct 29, 2026, 07:12:02 AM"
+    },
     {
       "id": "mvsul7wd",
       "type": "PROFILE_SYNC",
@@ -250,15 +259,16 @@
       "cookie": "XSRF-TOKEN=eyJpdiI6Ik8vaFRYVVk5V1pIVG1mZWMxNVBySUE9PSIsInZhbHVlIjoiRmNzeFc4U0ZhdXI3bjFQdGROa3hMVkNFSWJvSkxHTnQ4YTFxVXFmMEN1aFh1V1JoYWFndVByNEY1Y1NvbWJ6QmhtY3JUMFZJK2FNSFlGdmxZVUNqWnY0UXNEY1NBRnkvdWM5d0dKSEUremxnZEZ1WWpHMnJnSm0rSERCaVl6bVgiLCJtYWMiOiI4ZmRmZWM4Nzg3MzVjYTNiMTkwZmEwYjJiYTdkMTFhMTkwNjBmNzNiN2YyMDEyYTEyMDZkNTVhY2E2ZmM1ODI4IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IjZJdmRWYXBTanZpN1lYMVI4YVlVa0E9PSIsInZhbHVlIjoiR0Nza1Qra3NRWVFFK3Z5dS9GQVF1ZUhtY1JzaDFGaGp2TGljMmE2Yy9GZDBIUzN0TmJPN2RJWW13L0xqUlBBSzNXS29QTlBrWi9Md2FieU1sc3dwcEx4QTFObml2eGc5eWJGWm1EenRMZ29OWngwUDdCaTBleVgxMkt2WFBTRHoiLCJtYWMiOiI2Y2NkYTNjZjk3ZDEyZjBhYjhkZjMzMzM3MmFhZmYwMjEzZmJhOTY4ZGY4NDhiZWVjNWE2YTkyNDhhZmIxMGE0IiwidGFnIjoiIn0%3D",
       "csrfToken": "0aKg8ttz6Q77c90JpSMfvPYNlpo9gT1Vt70Ebu23",
       "dailyLimit": 20,
-      "sentsToday": 0,
-      "todaysLeft": 20,
+      "sentsToday": 1,
+      "todaysLeft": 19,
       "pendingSms": 6,
-      "deliveredSms": 23,
+      "deliveredSms": 24,
       "rejectedSms": 2,
       "lastResetDate": "2026-10-29",
       "updatedAt": 1793236062839,
       "lastAutoLoginTimeStr": "Oct 29, 2026, 07:07:42 AM",
-      "active": true
+      "active": true,
+      "lastUsedAt": "Oct 29, 2026, 07:12:02 AM"
     },
     "01317339978": {
       "mobile": "01317339978",
