@@ -25,6 +25,15 @@
   },
   "logs": [
     {
+      "id": "mvsv1o5t",
+      "type": "SMS_REJECTED",
+      "token": "rexy",
+      "number": "01770412570",
+      "message": "hello",
+      "status": "INVALID_TOKEN",
+      "time": "Oct 29, 2026, 07:24:21 AM"
+    },
+    {
       "id": "mvsv1i1j",
       "type": "SMS_REJECTED",
       "token": "rexy",
