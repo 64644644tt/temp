@@ -4,11 +4,11 @@
       "code": "Rexy",
       "note": "Rexy",
       "maxRequests": 500,
-      "usedRequests": 8,
+      "usedRequests": 9,
       "createdAt": 1792892575204,
       "createdTimeStr": "Oct 25, 2026, 07:42:55 AM",
       "expiresAt": 1798076575204,
-      "lastUsedAt": "Oct 31, 2026, 11:39:57 AM",
+      "lastUsedAt": "Oct 31, 2026, 11:40:42 AM",
       "active": true
     },
     "Shadow": {
@@ -24,6 +24,15 @@
     }
   },
   "logs": [
+    {
+      "id": "mvvz31cd7oa",
+      "type": "SMS_SENT",
+      "token": "Rexy (via 01878266244)",
+      "number": "01954779400",
+      "message": "Rubox din Vaiya 🥺",
+      "status": "DELIVERED",
+      "time": "Oct 31, 2026, 11:40:42 AM"
+    },
     {
       "id": "mvvz235wwts",
       "type": "SMS_SENT",
@@ -367,15 +376,16 @@
       "cookie": "XSRF-TOKEN=eyJpdiI6IjdvMHlTalp5bFVhSGFzM1pJelJxeUE9PSIsInZhbHVlIjoiTU9PUG1XbjFJenRkQXN2Rjd5K0pCTndYZk5qcXVsOUY4VHJqMkk4WG9xNUc4WUM3enF0bS9qTUlteEl5Z1F2YVJmTGNxaU9ocmpkZUVsaE01T2NTTzVtRVJmaUsxbXUvd0JTU3FzdkdMaHBtOXlTQ3JtbTFRakl5S2tJeGtHQk4iLCJtYWMiOiI4NDIyYWNlOTJiN2MwYjZmYzZjMmZlZmQ0MWMxOWNmOGY0OTMyOTgyNjFhMmU4NDljYzM3OTEyYTUzOGQ1ZDVjIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6ImNCQVRmSTdvNndBa01NdkxCbkluT3c9PSIsInZhbHVlIjoiMU83bXZnNHBBOE1ybGtDNHN1UVg0SU5QUFhrNmVWdFMzYk82dUkxWEpMSGM5TFFpSGsvbnpQMFFNbnB1Ly9XOXlPK1dCbDAzMnNqWGYzalFhTXlXZmhaTlpKRVgwY2R1WXF3dnM0eWdBVk10dktsZlJ3NUFsVURpelNURlpqS3oiLCJtYWMiOiIwMjk3MThmODI3OTc0OTcxODA1MjlhYjRjYjViYTViMjdjZjc3Zjc2ZjQ4ODE2OWEwMzgyZjA3Yjc5NzFkYTYwIiwidGFnIjoiIn0%3D",
       "csrfToken": "lMaq2kipYwtfv2uiDycYLqT7YXRq258sajVrI1fc",
       "dailyLimit": 20,
-      "sentsToday": 0,
-      "todaysLeft": 20,
-      "pendingSms": 6,
-      "deliveredSms": 26,
+      "sentsToday": 1,
+      "todaysLeft": 19,
+      "pendingSms": 7,
+      "deliveredSms": 27,
       "rejectedSms": 9,
       "lastResetDate": "2026-10-31",
       "updatedAt": 1793425193306,
       "lastAutoLoginTimeStr": "Oct 31, 2026, 11:39:53 AM",
-      "active": true
+      "active": true,
+      "lastUsedAt": "Oct 31, 2026, 11:40:41 AM"
     },
     "01317339978": {
       "mobile": "01317339978",
@@ -392,8 +402,7 @@
       "lastResetDate": "2026-10-31",
       "updatedAt": 1793425101590,
       "lastAutoLoginTimeStr": "Oct 31, 2026, 11:38:21 AM",
-      "active": true,
-      "lastUsedAt": "Oct 31, 2026, 11:39:57 AM"
+      "active": true
     },
     "01606471292": {
       "mobile": "01606471292",
