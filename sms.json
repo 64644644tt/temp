@@ -25,6 +25,15 @@
   },
   "logs": [
     {
+      "id": "mvvyxeor",
+      "type": "PROFILE_SYNC",
+      "token": "SYSTEM",
+      "number": "01878266244",
+      "message": "Synced live /profile quota & verified session",
+      "status": "SYNCED",
+      "time": "Oct 31, 2026, 11:36:19 AM"
+    },
+    {
       "id": "mvvywc2n",
       "type": "SMS_FAILED",
       "token": "Rexy",
@@ -335,7 +344,7 @@
       "todaysLeft": 20,
       "pendingSms": 6,
       "deliveredSms": 26,
-      "rejectedSms": 3,
+      "rejectedSms": 4,
       "lastResetDate": "2026-10-31",
       "updatedAt": 1793424920622,
       "lastAutoLoginTimeStr": "Oct 31, 2026, 11:35:20 AM",
