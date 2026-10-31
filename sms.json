@@ -4,11 +4,11 @@
       "code": "Rexy",
       "note": "Rexy",
       "maxRequests": 500,
-      "usedRequests": 7,
+      "usedRequests": 8,
       "createdAt": 1792892575204,
       "createdTimeStr": "Oct 25, 2026, 07:42:55 AM",
       "expiresAt": 1798076575204,
-      "lastUsedAt": "Oct 29, 2026, 07:21:35 AM",
+      "lastUsedAt": "Oct 31, 2026, 11:39:57 AM",
       "active": true
     },
     "Shadow": {
@@ -24,6 +24,15 @@
     }
   },
   "logs": [
+    {
+      "id": "mvvz235wwts",
+      "type": "SMS_SENT",
+      "token": "Rexy (via 01317339978)",
+      "number": "01954779400",
+      "message": "your Hagu Is Atke gase no Problem Amra asi Harpic team",
+      "status": "DELIVERED",
+      "time": "Oct 31, 2026, 11:39:57 AM"
+    },
     {
       "id": "mvvz05bn",
       "type": "SMS_FAILED",
@@ -355,17 +364,17 @@
       "mobile": "01878266244",
       "password": "Arafat602",
       "profileName": "Arafat Sarder",
-      "cookie": "XSRF-TOKEN=eyJpdiI6IjJkSmg2cVR0cHRZUHpSWm9wd1hoR0E9PSIsInZhbHVlIjoiR1E0RWp4ak9JRStQSy9YSzBRVTAwcStLcGFLZVFSdDY1VzR5d29rYUYxeWNLZXdZcjAwTmNwenk1Zy9nNDJ5aDNFbTNBQVAyZm5rdWt0ZlE1cmxTK3BwQmE4ckdVRXNMTHhjaDBpbzlod1lERFFZQjk5cHBSYm9takhscEgyWG8iLCJtYWMiOiIxOGE1M2FiYmE4MjIyYzU0MmQ0OWY3MmUxM2QyZjAxN2NhMzdhMzQyYWFkMWJlZjRmZTIzZjllZTQzY2Y5OTIzIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Im56aTdQcWZ6VlF6VHFuN09uSXAzS3c9PSIsInZhbHVlIjoieVpPSkJSSFVobzdXT053N29DY3VGM08wWm5OZVU1ZmY5cHFwbjZNRTZjaHB1YXBWVVZiYTF0ckNENXJseTJ4ZnBJVFR0V3dqTHZkcU1rU1pVZlVzK09sUHVWQ2paYjVBVDhqMk9PYWVxZVljV2x6UEhJZEY1eFN6ZTkxS1dSNHgiLCJtYWMiOiI1OWY5MTI4M2U3NGY1ZDA1ZDc3NjFjNTQwZTBkMTA4NzA1N2Y1NjYzMjdhYmIwMzBmNDczN2RlMzFhYTVlZjc0IiwidGFnIjoiIn0%3D",
-      "csrfToken": "PmfW86JVyPqOXS5lx9YnFGjChPZa5WABsV5QIsHh",
+      "cookie": "XSRF-TOKEN=eyJpdiI6IjdvMHlTalp5bFVhSGFzM1pJelJxeUE9PSIsInZhbHVlIjoiTU9PUG1XbjFJenRkQXN2Rjd5K0pCTndYZk5qcXVsOUY4VHJqMkk4WG9xNUc4WUM3enF0bS9qTUlteEl5Z1F2YVJmTGNxaU9ocmpkZUVsaE01T2NTTzVtRVJmaUsxbXUvd0JTU3FzdkdMaHBtOXlTQ3JtbTFRakl5S2tJeGtHQk4iLCJtYWMiOiI4NDIyYWNlOTJiN2MwYjZmYzZjMmZlZmQ0MWMxOWNmOGY0OTMyOTgyNjFhMmU4NDljYzM3OTEyYTUzOGQ1ZDVjIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6ImNCQVRmSTdvNndBa01NdkxCbkluT3c9PSIsInZhbHVlIjoiMU83bXZnNHBBOE1ybGtDNHN1UVg0SU5QUFhrNmVWdFMzYk82dUkxWEpMSGM5TFFpSGsvbnpQMFFNbnB1Ly9XOXlPK1dCbDAzMnNqWGYzalFhTXlXZmhaTlpKRVgwY2R1WXF3dnM0eWdBVk10dktsZlJ3NUFsVURpelNURlpqS3oiLCJtYWMiOiIwMjk3MThmODI3OTc0OTcxODA1MjlhYjRjYjViYTViMjdjZjc3Zjc2ZjQ4ODE2OWEwMzgyZjA3Yjc5NzFkYTYwIiwidGFnIjoiIn0%3D",
+      "csrfToken": "lMaq2kipYwtfv2uiDycYLqT7YXRq258sajVrI1fc",
       "dailyLimit": 20,
       "sentsToday": 0,
       "todaysLeft": 20,
       "pendingSms": 6,
       "deliveredSms": 26,
-      "rejectedSms": 7,
+      "rejectedSms": 9,
       "lastResetDate": "2026-10-31",
-      "updatedAt": 1793425095964,
-      "lastAutoLoginTimeStr": "Oct 31, 2026, 11:38:15 AM",
+      "updatedAt": 1793425193306,
+      "lastAutoLoginTimeStr": "Oct 31, 2026, 11:39:53 AM",
       "active": true
     },
     "01317339978": {
@@ -375,15 +384,16 @@
       "cookie": "XSRF-TOKEN=eyJpdiI6IjBjTVRWSlpzbTVRbzVXYnZlajVxeFE9PSIsInZhbHVlIjoiUVQyaW5kV250TkdtcDk3VTltUW1pTDJiZ1VJRGh3TzBIK0QwZUd6cWVhc0R4UXAvajdRRnpYSDNPMjRPakRzQjg1bG9XMnJZSTZubEl3UEV2OWVUOU4zcE9pSysxRHU5M3NOOE1wSWdKd1hlQ3Q3OHZ2b25BcDgvUkxCdmRXWkciLCJtYWMiOiIzZjFlNTRjMjA5ZWFkYmM0NWZhMDVmNTYyYTZkMTM2ZjBkZDQzMmFlNTM1N2JkN2UxYjBhMzVlODcyN2YyOTlkIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6ImdDakxPN0ZOaEtEbVJpbUZLclpoUGc9PSIsInZhbHVlIjoiR2RRdjY3TzFhUlBMUUVkc0ZORDNsZXhPNHFlYTM5dG82UEF2Y3RtR09TR1lSaEkxMzZSN2t0dU01SVRnTjg1SWlBOVNkSDRVUHVReHl5Q242MFBmM0JqZjkwK3dWTlBBQ3NDclM0bEhYSnp5Vk13VEY5RHplVkNIMVFYK3c0bHAiLCJtYWMiOiIxZmI4ZjY0ZDk3YzBiN2UwNjQxZTNmMjgzYTdlYjI0YjA2OTdmMmI2OTIzYTAwZTlkYjY5ZDAyMDU4N2EyN2ZkIiwidGFnIjoiIn0%3D",
       "csrfToken": "eU0HtjuS5IXo6dMcUALHkWLxxKuJQ3142v4ZiFDz",
       "dailyLimit": 20,
-      "sentsToday": 0,
-      "todaysLeft": 20,
+      "sentsToday": 1,
+      "todaysLeft": 19,
       "pendingSms": 1,
-      "deliveredSms": 2,
-      "rejectedSms": 5,
+      "deliveredSms": 3,
+      "rejectedSms": 6,
       "lastResetDate": "2026-10-31",
       "updatedAt": 1793425101590,
       "lastAutoLoginTimeStr": "Oct 31, 2026, 11:38:21 AM",
-      "active": true
+      "active": true,
+      "lastUsedAt": "Oct 31, 2026, 11:39:57 AM"
     },
     "01606471292": {
       "mobile": "01606471292",
@@ -404,11 +414,11 @@
     }
   },
   "scConfig": {
-    "cookie": "XSRF-TOKEN=eyJpdiI6IlpWektYeXhnb3p4aktoSVJhaE5vU0E9PSIsInZhbHVlIjoibUtoZU9SNVpybVIxb2c4MWpBUHpWcS9FVzBxaENHbDl3dVpUYkphUWNudjhta2E0M0ZoaEg2UEpzcXMvaFRRTmRINGg0cituSjVTOVMyakRiYkdYWksyeU54Q3JQZng2TjhLeGdzQzNIdXh6dzRnK2k3a3pOL1FLeTVzdmczSGEiLCJtYWMiOiJmZWMwZGQwY2I0MjliOTczZWY5Y2IyZGRmZWMwYzZjOThjMmE5MzU1ZTc4MDc3NjljNWMxNjQ2ZjM2ZjY5NzBkIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IjBXdTByQTIwWXZndjNzQXhadGVjc2c9PSIsInZhbHVlIjoiK0ZveFBCWmFDNk1DZWdOQVhjN3FNNW9sOFRoQXg0WE5ON3FQamRJaEFadUlVZFpOVHVjSVAxUWlKbHRNSklIZEZZOTdnbHBUNzJneEIra0NKU1FFdlVmMmJ1eC9YNG9VWEg5ZjV1T3FRSDN3akZMemwzY1B2bG5wZytxODhFK0IiLCJtYWMiOiJhYjlhZTE3NGY1Y2Q0MWUyNzYzODZlNDYxMTcxNDZhOGU4NWZmZjAwY2NmYzBmMzNhZWYwZTZiNjlhZWY2OWQ0IiwidGFnIjoiIn0%3D",
-    "csrfToken": "lFtMy5NnpqcsxkqqyhDJ5fLki7QJROCujAzHtTjK",
-    "mobile": "01606471292",
+    "cookie": "XSRF-TOKEN=eyJpdiI6IjdvMHlTalp5bFVhSGFzM1pJelJxeUE9PSIsInZhbHVlIjoiTU9PUG1XbjFJenRkQXN2Rjd5K0pCTndYZk5qcXVsOUY4VHJqMkk4WG9xNUc4WUM3enF0bS9qTUlteEl5Z1F2YVJmTGNxaU9ocmpkZUVsaE01T2NTTzVtRVJmaUsxbXUvd0JTU3FzdkdMaHBtOXlTQ3JtbTFRakl5S2tJeGtHQk4iLCJtYWMiOiI4NDIyYWNlOTJiN2MwYjZmYzZjMmZlZmQ0MWMxOWNmOGY0OTMyOTgyNjFhMmU4NDljYzM3OTEyYTUzOGQ1ZDVjIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6ImNCQVRmSTdvNndBa01NdkxCbkluT3c9PSIsInZhbHVlIjoiMU83bXZnNHBBOE1ybGtDNHN1UVg0SU5QUFhrNmVWdFMzYk82dUkxWEpMSGM5TFFpSGsvbnpQMFFNbnB1Ly9XOXlPK1dCbDAzMnNqWGYzalFhTXlXZmhaTlpKRVgwY2R1WXF3dnM0eWdBVk10dktsZlJ3NUFsVURpelNURlpqS3oiLCJtYWMiOiIwMjk3MThmODI3OTc0OTcxODA1MjlhYjRjYjViYTViMjdjZjc3Zjc2ZjQ4ODE2OWEwMzgyZjA3Yjc5NzFkYTYwIiwidGFnIjoiIn0%3D",
+    "csrfToken": "lMaq2kipYwtfv2uiDycYLqT7YXRq258sajVrI1fc",
+    "mobile": "01878266244",
     "password": "Arafat602",
-    "updatedAt": 1793425106125,
-    "lastAutoLoginTimeStr": "Oct 31, 2026, 11:38:26 AM"
+    "updatedAt": 1793425193306,
+    "lastAutoLoginTimeStr": "Oct 31, 2026, 11:39:53 AM"
   }
 }
