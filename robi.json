@@ -86,15 +86,15 @@
       "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiJhZWMwMTI3Zi02N2ZiLTQ4ZDYtYTEyNi01MDhiZTU3NjM3NWQiLCJzdWIiOiIzMzkyNzE3NyIsImlsayI6ImN1c3RvbWVyIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3OTM1NTQzMjksImV4cCI6MTgyNTA5MDMyOX0.jrQl9SUVL_brxBPb4vAy62GwCY4X_sEs1MXjbYj8m7o",
       "refresh_token_expires_at": 1825090329,
       "auto_claim": true,
-      "is_active": true,
-      "logged_out_notified": false,
+      "is_active": false,
+      "logged_out_notified": true,
       "created_at": 1793026248.1200302,
       "next_claim_at": 1793592000.0,
       "last_claim_date": "2026-11-01",
       "last_claim_at": 1793554330.703141,
-      "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
+      "last_claim_status": "❌ লগআউট হয়ে গেছে",
       "total_bot_claimed": 30,
-      "updated_at": 1793554330.7031424,
+      "updated_at": 1793564370.7295206,
       "last_checked_at": 1793560765.6404762
     },
     "01806979170": {
@@ -122,5 +122,5 @@
       "last_checked_at": 1793157328.7430031
     }
   },
-  "updated_at": 1793564368
+  "updated_at": 1793564371
 }
