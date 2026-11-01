@@ -34,21 +34,20 @@
       "email": "arafatas602@gmail.com",
       "birthday": "2000-11-23",
       "age_of_network": "২৩ ডিসেম্বর, ২০১৭",
-      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiIwZTAxNjMxMy05YjM2LTQ2YjUtODhhMC05OTRjOGE0ZmRmZmIiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6Iis4ODAxODc4MjY2MjQ0IiwicGF5dHlwZSI6InByZXBhaWQiLCJ0eXBlIjoiYWNjZXNzIiwiaXNzIjoicm9iaSIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIsInBsdCI6ImFuZHJvaWQiLCJ2ZXIiOiIxMC4xNS4yIiwiZW52IjoiZGV2ZWxvcG1lbnQiLCJ1c2VyVHlwZSI6ImJyYW5kIiwibWFya2V0U2VnbWVudCI6ImluZGl2aWR1YWwiLCJjcmVhdGVkQXQiOjE2NjcxMjUyOTMsImlzRW1wbG95ZWUiOmZhbHNlLCJtYWluUHJvZHVjdCI6MjYwLCJzaW1UeXBlIjoibm9ybWFsIiwiaWF0IjoxNzkzMzY2Mjk0LCJleHAiOjE3OTM0NTI2OTR9.heFy37NNbxvHOEkqLW0O8VV1Kff-OO_Iiaz92m-kaLY",
-      "access_token_expires_at": 1793452694,
-      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiIwZTAxNjMxMy05YjM2LTQ2YjUtODhhMC05OTRjOGE0ZmRmZmIiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6ImN1c3RvbWVyIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3OTMzNjYyOTQsImV4cCI6MTgyNDkwMjI5NH0.UJqlSFn4BJcaSKUSvmm_OSllREdSIpMmSS6nqmpeaPQ",
-      "refresh_token_expires_at": 1824902294,
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiJmZDg5YzJiMS03ZjY0LTQzMTMtODE0YS0zMTA1NDhlZWU1YjgiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6Iis4ODAxODc4MjY2MjQ0IiwicGF5dHlwZSI6InByZXBhaWQiLCJ0eXBlIjoiYWNjZXNzIiwiaXNzIjoicm9iaSIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIsInBsdCI6ImFuZHJvaWQiLCJ2ZXIiOiIxMC4xNS4yIiwiZW52IjoiZGV2ZWxvcG1lbnQiLCJ1c2VyVHlwZSI6ImJyYW5kIiwibWFya2V0U2VnbWVudCI6ImluZGl2aWR1YWwiLCJjcmVhdGVkQXQiOjE2NjcxMjUyOTMsImlzRW1wbG95ZWUiOmZhbHNlLCJtYWluUHJvZHVjdCI6MjYwLCJzaW1UeXBlIjoibm9ybWFsIiwiaWF0IjoxNzkzNTM5NDUwLCJleHAiOjE3OTM2MjU4NTB9.pj-sYUwIXuiw61rbNOcjan60OfrjgRvygxg7Ow6cp-8",
+      "access_token_expires_at": 1793625850,
+      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiJmZDg5YzJiMS03ZjY0LTQzMTMtODE0YS0zMTA1NDhlZWU1YjgiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6ImN1c3RvbWVyIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3OTM1Mzk0NTAsImV4cCI6MTgyNTA3NTQ1MH0.V0tyJKIECQRFzeUr8Rm-9FOwwBEP-p_RwpHF52Ni9lI",
+      "refresh_token_expires_at": 1825075450,
       "auto_claim": true,
-      "is_active": false,
-      "logged_out_notified": true,
+      "is_active": true,
+      "logged_out_notified": false,
       "created_at": 1793020672.7025492,
-      "next_claim_at": 1793505600.0,
+      "next_claim_at": 1793592000.0,
       "last_claim_date": "2026-10-31",
       "last_claim_at": 1793419210.228509,
       "last_claim_status": "❌ লগআউট হয়ে গেছে",
       "total_bot_claimed": 25,
-      "updated_at": 1793452699.6509814,
-      "last_checked_at": 1793449096.449266
+      "updated_at": 1793539451.986963
     },
     "01621264517": {
       "tg_user_id": 7370175624,
@@ -95,7 +94,7 @@
       "last_claim_status": "✅ +5 কয়েন",
       "total_bot_claimed": 30,
       "updated_at": 1793505620.0057108,
-      "last_checked_at": 1793503122.6059623
+      "last_checked_at": 1793539143.618361
     },
     "01806979170": {
       "tg_user_id": 7326996884,
@@ -122,5 +121,5 @@
       "last_checked_at": 1793157328.7430031
     }
   },
-  "updated_at": 1793505620
+  "updated_at": 1793539452
 }
