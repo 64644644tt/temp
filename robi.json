@@ -43,11 +43,11 @@
       "logged_out_notified": false,
       "created_at": 1793020672.7025492,
       "next_claim_at": 1793592000.0,
-      "last_claim_date": "2026-10-31",
-      "last_claim_at": 1793419210.228509,
-      "last_claim_status": "❌ লগআউট হয়ে গেছে",
-      "total_bot_claimed": 25,
-      "updated_at": 1793539451.986963
+      "last_claim_date": "2026-11-01",
+      "last_claim_at": 1793539452.9865162,
+      "last_claim_status": "✅ +5 কয়েন",
+      "total_bot_claimed": 30,
+      "updated_at": 1793539452.9865177
     },
     "01621264517": {
       "tg_user_id": 7370175624,
@@ -121,5 +121,5 @@
       "last_checked_at": 1793157328.7430031
     }
   },
-  "updated_at": 1793539452
+  "updated_at": 1793539453
 }
