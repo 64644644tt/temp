@@ -89,12 +89,13 @@
       "is_active": true,
       "logged_out_notified": false,
       "created_at": 1793026248.1200302,
-      "next_claim_at": 1793505600.0,
-      "last_claim_date": "2026-10-31",
-      "last_claim_at": 1793464910.5546966,
+      "next_claim_at": 1793592000.0,
+      "last_claim_date": "2026-11-01",
+      "last_claim_at": 1793505620.0057094,
       "last_claim_status": "✅ +5 কয়েন",
-      "total_bot_claimed": 25,
-      "updated_at": 1793464952.246513
+      "total_bot_claimed": 30,
+      "updated_at": 1793505620.0057108,
+      "last_checked_at": 1793503122.6059623
     },
     "01806979170": {
       "tg_user_id": 7326996884,
@@ -121,5 +122,5 @@
       "last_checked_at": 1793157328.7430031
     }
   },
-  "updated_at": 1793464952
+  "updated_at": 1793505620
 }
