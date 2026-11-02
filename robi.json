@@ -81,21 +81,20 @@
       "email": "যুক্ত করা নেই",
       "birthday": "2000-01-09",
       "age_of_network": "১০ জুলাই, ২০২১",
-      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiJhZWMwMTI3Zi02N2ZiLTQ4ZDYtYTEyNi01MDhiZTU3NjM3NWQiLCJzdWIiOiIzMzkyNzE3NyIsImlsayI6Iis4ODAxODg3NzA4OTI4IiwicGF5dHlwZSI6InByZXBhaWQiLCJ0eXBlIjoiYWNjZXNzIiwiaXNzIjoicm9iaSIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIsInBsdCI6ImFuZHJvaWQiLCJ2ZXIiOiIxMC4xNS4yIiwiZW52IjoiZGV2ZWxvcG1lbnQiLCJ1c2VyVHlwZSI6ImJyYW5kIiwibWFya2V0U2VnbWVudCI6ImluZGl2aWR1YWwiLCJjcmVhdGVkQXQiOjE3NTc5Mzc0MjQsImlzRW1wbG95ZWUiOmZhbHNlLCJtYWluUHJvZHVjdCI6MjM1LCJzaW1UeXBlIjoibm9ybWFsIiwiaWF0IjoxNzkzNTU0MzI5LCJleHAiOjE3OTM2NDA3Mjl9.-RfKTBdOotV1_YOKdllcDefyV37wdMqwkcC56qOlkWg",
-      "access_token_expires_at": 1793640729,
-      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiJhZWMwMTI3Zi02N2ZiLTQ4ZDYtYTEyNi01MDhiZTU3NjM3NWQiLCJzdWIiOiIzMzkyNzE3NyIsImlsayI6ImN1c3RvbWVyIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3OTM1NTQzMjksImV4cCI6MTgyNTA5MDMyOX0.jrQl9SUVL_brxBPb4vAy62GwCY4X_sEs1MXjbYj8m7o",
-      "refresh_token_expires_at": 1825090329,
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiIxMGExOWMxNi0wMjY0LTQ4OWYtOGViMC02NTdhZmM5MzVkOWYiLCJzdWIiOiIzMzkyNzE3NyIsImlsayI6Iis4ODAxODg3NzA4OTI4IiwicGF5dHlwZSI6InByZXBhaWQiLCJ0eXBlIjoiYWNjZXNzIiwiaXNzIjoicm9iaSIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIsInBsdCI6ImFuZHJvaWQiLCJ2ZXIiOiIxMC4xNS4yIiwiZW52IjoiZGV2ZWxvcG1lbnQiLCJ1c2VyVHlwZSI6ImJyYW5kIiwibWFya2V0U2VnbWVudCI6ImluZGl2aWR1YWwiLCJjcmVhdGVkQXQiOjE3NTc5Mzc0MjQsImlzRW1wbG95ZWUiOmZhbHNlLCJtYWluUHJvZHVjdCI6MjM1LCJzaW1UeXBlIjoibm9ybWFsIiwiaWF0IjoxNzkzNjI5OTk1LCJleHAiOjE3OTM3MTYzOTV9.YOMFrkoRKYsVPd1k_Jry4TCX-vb4kCVaoM0TX55uXnY",
+      "access_token_expires_at": 1793716395,
+      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiIxMGExOWMxNi0wMjY0LTQ4OWYtOGViMC02NTdhZmM5MzVkOWYiLCJzdWIiOiIzMzkyNzE3NyIsImlsayI6ImN1c3RvbWVyIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3OTM2Mjk5OTUsImV4cCI6MTgyNTE2NTk5NX0.8yFdX8FTjHs0vgn2mMl5Sfa63zJhBTjRWFchFXtvJIE",
+      "refresh_token_expires_at": 1825165995,
       "auto_claim": true,
-      "is_active": false,
-      "logged_out_notified": true,
+      "is_active": true,
+      "logged_out_notified": false,
       "created_at": 1793026248.1200302,
-      "next_claim_at": 1793592000.0,
-      "last_claim_date": "2026-11-01",
-      "last_claim_at": 1793554330.703141,
-      "last_claim_status": "❌ লগআউট হয়ে গেছে",
+      "next_claim_at": 1793678400.0,
+      "last_claim_date": "2026-11-02",
+      "last_claim_at": 1793629996.7342787,
+      "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 30,
-      "updated_at": 1793564370.7295206,
-      "last_checked_at": 1793560765.6404762
+      "updated_at": 1793629996.73428
     },
     "01806979170": {
       "tg_user_id": 7326996884,
@@ -122,5 +121,5 @@
       "last_checked_at": 1793157328.7430031
     }
   },
-  "updated_at": 1793564371
+  "updated_at": 1793629996
 }
