@@ -39,16 +39,16 @@
       "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiJhYTVkNTRiMi1lMDhhLTQ5YzktYjA0Yi00ZjM2YWJmMWJkNzkiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6ImN1c3RvbWVyIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3OTM3MDg2MjIsImV4cCI6MTgyNTI0NDYyMn0.MfFy7PkG5rtK7tHq1cLy9j5I7N-T3lPS2EC0aKdknW0",
       "refresh_token_expires_at": 1825244622,
       "auto_claim": true,
-      "is_active": true,
-      "logged_out_notified": false,
+      "is_active": false,
+      "logged_out_notified": true,
       "created_at": 1793020672.7025492,
       "next_claim_at": 1793851200.0,
       "last_claim_date": "2026-11-04",
       "last_claim_at": 1793764817.4577322,
-      "last_claim_status": "✅ +20 কয়েন",
+      "last_claim_status": "❌ লগআউট হয়ে গেছে",
       "total_bot_claimed": 60,
-      "updated_at": 1793764817.4577334,
-      "last_checked_at": 1793762469.2017455
+      "updated_at": 1793798491.6636994,
+      "last_checked_at": 1793794888.2880838
     },
     "01621264517": {
       "tg_user_id": 7370175624,
@@ -122,5 +122,5 @@
       "last_checked_at": 1793157328.7430031
     }
   },
-  "updated_at": 1793764817
+  "updated_at": 1793798492
 }
