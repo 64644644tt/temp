@@ -34,21 +34,20 @@
       "email": "arafatas602@gmail.com",
       "birthday": "2000-11-23",
       "age_of_network": "২৩ ডিসেম্বর, ২০১৭",
-      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiI5MTgxMjJiMC1iNTExLTQ2NDctYTFjOC0zZGRlNTIyMzQ0YmEiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6Iis4ODAxODc4MjY2MjQ0IiwicGF5dHlwZSI6InByZXBhaWQiLCJ0eXBlIjoiYWNjZXNzIiwiaXNzIjoicm9iaSIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIsInBsdCI6ImFuZHJvaWQiLCJ2ZXIiOiIxMC4xNS4yIiwiZW52IjoiZGV2ZWxvcG1lbnQiLCJ1c2VyVHlwZSI6ImJyYW5kIiwibWFya2V0U2VnbWVudCI6ImluZGl2aWR1YWwiLCJjcmVhdGVkQXQiOjE2NjcxMjUyOTMsImlzRW1wbG95ZWUiOmZhbHNlLCJtYWluUHJvZHVjdCI6MjYwLCJzaW1UeXBlIjoibm9ybWFsIiwiaWF0IjoxNzkzODc5MDkxLCJleHAiOjE3OTM5NjU0OTF9.WIFysi9Fwo7dO4pWd4ZfmNYOzt8mCfN3VGHFp5oRnBw",
-      "access_token_expires_at": 1793965491,
-      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiI5MTgxMjJiMC1iNTExLTQ2NDctYTFjOC0zZGRlNTIyMzQ0YmEiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6ImN1c3RvbWVyIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3OTM4NzkwOTEsImV4cCI6MTgyNTQxNTA5MX0.uMoP94KBYoJaHiFxrYLRXhwN5PARneR7mtpD-eBz4dE",
-      "refresh_token_expires_at": 1825415091,
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiI2YzRmOWQyMC0xMjZlLTQ1NzctYjBkNC04MGM5MmEyZTRlZjkiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6Iis4ODAxODc4MjY2MjQ0IiwicGF5dHlwZSI6InByZXBhaWQiLCJ0eXBlIjoiYWNjZXNzIiwiaXNzIjoicm9iaSIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIsInBsdCI6ImFuZHJvaWQiLCJ2ZXIiOiIxMC4xNS4yIiwiZW52IjoiZGV2ZWxvcG1lbnQiLCJ1c2VyVHlwZSI6ImJyYW5kIiwibWFya2V0U2VnbWVudCI6ImluZGl2aWR1YWwiLCJjcmVhdGVkQXQiOjE2NjcxMjUyOTMsImlzRW1wbG95ZWUiOmZhbHNlLCJtYWluUHJvZHVjdCI6MjYwLCJzaW1UeXBlIjoibm9ybWFsIiwiaWF0IjoxNzkzOTY5MjY2LCJleHAiOjE3OTQwNTU2NjZ9.HNCEBG4HuIB9Oe4jCd9C_Udm1aFgbGmu7Nc195OrjKs",
+      "access_token_expires_at": 1794055666,
+      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOiI2YzRmOWQyMC0xMjZlLTQ1NzctYjBkNC04MGM5MmEyZTRlZjkiLCJzdWIiOiIxMjU4NDYyNiIsImlsayI6ImN1c3RvbWVyIiwidHlwZSI6InJlZnJlc2giLCJpYXQiOjE3OTM5NjkyNjYsImV4cCI6MTgyNTUwNTI2Nn0.jdj91GZA2ae_ppNH5AOQ4bL-rFvac2_1xlzXI8u22rk",
+      "refresh_token_expires_at": 1825505266,
       "auto_claim": true,
-      "is_active": false,
-      "logged_out_notified": true,
+      "is_active": true,
+      "logged_out_notified": false,
       "created_at": 1793020672.7025492,
       "next_claim_at": 1794024000.0,
       "last_claim_date": "2026-11-06",
-      "last_claim_at": 1793937605.8228464,
-      "last_claim_status": "❌ লগআউট হয়ে গেছে",
+      "last_claim_at": 1793969268.1892045,
+      "last_claim_status": "✅ আজ অলরেডি ক্লেইমড",
       "total_bot_claimed": 80,
-      "updated_at": 1793967745.2264447,
-      "last_checked_at": 1793964142.0778363
+      "updated_at": 1793969268.1892061
     },
     "01621264517": {
       "tg_user_id": 7370175624,
@@ -122,5 +121,5 @@
       "last_checked_at": 1793157328.7430031
     }
   },
-  "updated_at": 1793967745
+  "updated_at": 1793969268
 }
