@@ -11,16 +11,21 @@
           "deviceId": "211fe747-2c56-4520-8326-0d4d2a4284dc",
           "deviceName": "Gecko",
           "addedAt": "2026-11-19T07:11:16.451Z",
-          "updatedAt": "2026-11-19T07:11:16.451Z"
+          "updatedAt": "2026-11-19T07:11:16.999Z",
+          "userId": "2123312555677822977",
+          "userNo": "153613534279936",
+          "userNick": "Arafat",
+          "userIcon": "https://lh3.googleusercontent.com/a/ACg8ocIyu_XhsWLa50B3TN0X1HJP66Novrh3NNqscN6ScO8C_XlEGA=s96-c",
+          "createTime": "2026-11-19 07:08:57"
         }
       ],
       "createdAt": "2026-11-18T08:05:12.964Z",
-      "lastSeenAt": "2026-11-19T07:11:16.451Z"
+      "lastSeenAt": "2026-11-19T07:11:16.999Z"
     }
   },
   "stats": {
     "totalLogins": 7,
     "totalClaims": 5,
-    "updatedAt": "2026-11-19T07:11:16.451Z"
+    "updatedAt": "2026-11-19T07:11:16.999Z"
   }
 }
