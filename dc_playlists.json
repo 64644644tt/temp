@@ -8,5 +8,17 @@
       "createdAt": "2026-11-23T07:15:29.169Z"
     }
   },
-  "history": {}
+  "history": {
+    "1515094559808295114": [
+      {
+        "title": "Bolona",
+        "url": "https://open.spotify.com/track/2NaDump6uGH8a9JXyVaPwI",
+        "author": "Munna Islam, TMSakib",
+        "duration": "3:59",
+        "source": "spotify",
+        "requester": "<@1332208677679005720>",
+        "playedAt": "2026-11-23T07:16:19.063Z"
+      }
+    ]
+  }
 }
