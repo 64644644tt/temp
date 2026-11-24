@@ -140,6 +140,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "baby yea",
+        "url": "https://open.spotify.com/track/6eOMLRYxC3L5AJXFDPhyNK",
+        "author": "Juyshi",
+        "duration": "2:36",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-24T17:27:09.684Z"
+      },
+      {
         "title": "WHINE IT",
         "url": "https://open.spotify.com/track/4uD7XujXoOgpB4IWdwVUJY",
         "author": "TRICKY SAAH",
@@ -354,15 +363,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T15:00:29.603Z"
-      },
-      {
-        "title": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK",
-        "author": "David Guetta, Bebe Rexha",
-        "duration": "2:55",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T14:57:33.824Z"
       }
     ]
   }
