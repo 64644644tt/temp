@@ -126,6 +126,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Caramelldansen",
+        "url": "https://open.spotify.com/track/7MwwPyZJ7UKFROj2oVnH6R",
+        "author": "Caramella Girls",
+        "duration": "2:55",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-24T15:26:34.283Z"
+      },
+      {
         "title": "Cry For Me",
         "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI",
         "author": "The Weeknd",
@@ -340,15 +349,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T13:59:40.096Z"
-      },
-      {
-        "title": "reha",
-        "url": "https://open.spotify.com/track/0TZYCYJyaJJivCPlQ43I9N",
-        "author": "Vanshh",
-        "duration": "3:45",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T13:59:26.122Z"
       }
     ]
   }
