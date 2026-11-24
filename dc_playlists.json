@@ -140,6 +140,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "The Abyss (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42",
+        "author": "The Weeknd, Lana Del Rey",
+        "duration": "4:43",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-24T17:53:46.906Z"
+      },
+      {
         "title": "Timeless (feat Playboi Carti)",
         "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS",
         "author": "The Weeknd, Playboi Carti",
@@ -354,15 +363,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T15:22:49.919Z"
-      },
-      {
-        "title": "Mashallah",
-        "url": "https://open.spotify.com/track/6QDUbyv5NfcSMp1dPekoGv",
-        "author": "Tajwar",
-        "duration": "2:03",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T15:20:47.298Z"
       }
     ]
   }
