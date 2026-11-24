@@ -140,6 +140,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "FREAKED OUT",
+        "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN",
+        "author": "Fat Papi, prodshushy",
+        "duration": "2:38",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-24T17:39:04.243Z"
+      },
+      {
         "title": "Starboy",
         "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB",
         "author": "The Weeknd, Daft Punk",
@@ -354,15 +363,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T15:12:40.779Z"
-      },
-      {
-        "title": "São Paulo (feat. Anitta)",
-        "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC",
-        "author": "The Weeknd, Anitta",
-        "duration": "5:02",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T15:07:38.691Z"
       }
     ]
   }
