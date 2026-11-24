@@ -126,6 +126,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Starboy",
+        "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB",
+        "author": "The Weeknd, Daft Punk",
+        "duration": "3:50",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-24T15:32:34.955Z"
+      },
+      {
         "title": "SANAM",
         "url": "https://open.spotify.com/track/0RIxm9cL2VmF4gGvF0NAvt",
         "author": "Shibu, Pranavi",
@@ -340,15 +349,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T14:08:35.651Z"
-      },
-      {
-        "title": "Pehla Lafz",
-        "url": "https://open.spotify.com/track/5smEWOM2zbcvTi9J7xR53q",
-        "author": "rohansbed",
-        "duration": "3:26",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T14:03:11.595Z"
       }
     ]
   }
