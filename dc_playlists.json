@@ -126,6 +126,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Rani Teri Ek Jhalak - bargad Trending Version",
+        "url": "https://open.spotify.com/track/3YIr1HfcB4xK6Jy2j2Ephe",
+        "author": "sufr, Arpit Bala, toorjo dey",
+        "duration": "1:43",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-24T15:43:46.918Z"
+      },
+      {
         "title": "Udi Udi",
         "url": "https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat",
         "author": "Aneesh, Sarkar, Hruday",
@@ -340,15 +349,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T14:25:22.202Z"
-      },
-      {
-        "title": "Pehla Lafz",
-        "url": "https://open.spotify.com/track/5smEWOM2zbcvTi9J7xR53q",
-        "author": "rohansbed",
-        "duration": "3:26",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T14:21:55.944Z"
       }
     ]
   }
