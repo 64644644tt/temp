@@ -140,6 +140,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "They Don't Care About Us",
+        "url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv",
+        "author": "Michael Jackson",
+        "duration": "4:44",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-24T16:46:22.422Z"
+      },
+      {
         "title": "Mayabi Chokh",
         "url": "https://open.spotify.com/track/2LEefOxpyWSWJiAhANCPXL",
         "author": "Stoic Bliss",
@@ -354,15 +363,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T14:50:52.565Z"
-      },
-      {
-        "title": "baby yea",
-        "url": "https://open.spotify.com/track/6eOMLRYxC3L5AJXFDPhyNK",
-        "author": "Juyshi",
-        "duration": "2:36",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T14:48:15.998Z"
       }
     ]
   }
