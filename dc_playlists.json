@@ -140,6 +140,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Heartless",
+        "url": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8",
+        "author": "The Weeknd",
+        "duration": "3:18",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-24T18:04:31.314Z"
+      },
+      {
         "title": "After Hours",
         "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag",
         "author": "The Weeknd",
@@ -354,15 +363,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T15:29:30.499Z"
-      },
-      {
-        "title": "Caramelldansen",
-        "url": "https://open.spotify.com/track/7MwwPyZJ7UKFROj2oVnH6R",
-        "author": "Caramella Girls",
-        "duration": "2:55",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T15:26:34.283Z"
       }
     ]
   }
