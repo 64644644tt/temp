@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Pink Lips",
+        "url": "https://open.spotify.com/track/2tyITgmOGVz6rqleDokbEN",
+        "author": "Meet Bros Anjjan, Khushboo Grewal",
+        "duration": "4:15",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-25T16:49:51.951Z"
+      },
+      {
         "title": "Allah Maaf Kare",
         "url": "https://open.spotify.com/track/68RveqIjrkOeBbEGL67GgA",
         "author": "Pritam, Sonu Nigam, Shilpa Rao",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1551265279932112932>",
         "playedAt": "2026-11-25T03:32:23.897Z"
-      },
-      {
-        "title": "Heartless",
-        "url": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8",
-        "author": "The Weeknd",
-        "duration": "3:18",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T18:04:31.314Z"
       }
     ]
   }
