@@ -140,6 +140,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "back to friends",
+        "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6",
+        "author": "sombr",
+        "duration": "3:19",
+        "source": "spotify",
+        "requester": "<@1551265279932112932>",
+        "playedAt": "2026-11-25T03:36:15.286Z"
+      },
+      {
         "title": "bye - slowed",
         "url": "https://open.spotify.com/track/2msVL27VsXqIaDh1A9iSAO",
         "author": "Altare",
@@ -354,15 +363,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T15:37:06.737Z"
-      },
-      {
-        "title": "Starboy",
-        "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB",
-        "author": "The Weeknd, Daft Punk",
-        "duration": "3:50",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T15:32:34.955Z"
       }
     ]
   }
