@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Allah Maaf Kare",
+        "url": "https://open.spotify.com/track/68RveqIjrkOeBbEGL67GgA",
+        "author": "Pritam, Sonu Nigam, Shilpa Rao",
+        "duration": "3:50",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-25T23:26:01.311Z"
+      },
+      {
         "title": "10 E 10",
         "url": "https://open.spotify.com/track/1tWaY9Spj1w3cIgVXG3B3r",
         "author": "Shibu, Hasan Raheem, Umair",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-25T22:04:12.866Z"
-      },
-      {
-        "title": "Opekkha",
-        "url": "https://open.spotify.com/track/4vgXRRsC8bkidBj9A3eHHI",
-        "author": "Shibu",
-        "duration": "2:34",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-25T22:00:56.587Z"
       }
     ]
   }
