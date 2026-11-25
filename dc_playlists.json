@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Dil Chori (From \"Sonu Ke Titu Ki Sweety\")",
+        "url": "https://open.spotify.com/track/4cQxBfdD5nNJaLcPIY3EcK",
+        "author": "Yo Yo Honey Singh, Simar Kaur, Ishers, Anand Raj Anand",
+        "duration": "3:47",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-25T17:08:26.984Z"
+      },
+      {
         "title": "SANAM",
         "url": "https://open.spotify.com/track/0RIxm9cL2VmF4gGvF0NAvt",
         "author": "Shibu, Pranavi",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-25T15:44:34.496Z"
-      },
-      {
-        "title": "Pink Lips",
-        "url": "https://open.spotify.com/track/2tyITgmOGVz6rqleDokbEN",
-        "author": "Meet Bros Anjjan, Khushboo Grewal",
-        "duration": "4:15",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-25T15:40:19.463Z"
       }
     ]
   }
