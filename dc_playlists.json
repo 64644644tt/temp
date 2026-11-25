@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "First Kiss",
+        "url": "https://open.spotify.com/track/1nhJF3mMAL9UgBz3vLLNuM",
+        "author": "Yo Yo Honey Singh, Ipsitaa",
+        "duration": "3:40",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-25T15:44:34.496Z"
+      },
+      {
         "title": "Pink Lips",
         "url": "https://open.spotify.com/track/2tyITgmOGVz6rqleDokbEN",
         "author": "Meet Bros Anjjan, Khushboo Grewal",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T15:48:26.267Z"
-      },
-      {
-        "title": "bargad",
-        "url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl",
-        "author": "sufr, Arpit Bala, toorjo dey",
-        "duration": "2:55",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T15:45:30.848Z"
       }
     ]
   }
