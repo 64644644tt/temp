@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Pink Lips",
+        "url": "https://open.spotify.com/track/2tyITgmOGVz6rqleDokbEN",
+        "author": "Meet Bros Anjjan, Khushboo Grewal",
+        "duration": "4:15",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-25T15:40:19.463Z"
+      },
+      {
         "title": "Mujhe Tumse Mohabbat Hai - Remix",
         "url": "https://open.spotify.com/track/0cIqctTS9MwA5BoAq2bEo0",
         "author": "Shreya Ghoshal, Shaan",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T15:45:30.848Z"
-      },
-      {
-        "title": "Rani Teri Ek Jhalak - bargad Trending Version",
-        "url": "https://open.spotify.com/track/3YIr1HfcB4xK6Jy2j2Ephe",
-        "author": "sufr, Arpit Bala, toorjo dey",
-        "duration": "1:43",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T15:43:46.918Z"
       }
     ]
   }
