@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Dil Chori (From \"Sonu Ke Titu Ki Sweety\")",
+        "url": "https://open.spotify.com/track/4cQxBfdD5nNJaLcPIY3EcK",
+        "author": "Yo Yo Honey Singh, Simar Kaur, Ishers, Anand Raj Anand",
+        "duration": "3:47",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-25T20:10:03.362Z"
+      },
+      {
         "title": "SANAM",
         "url": "https://open.spotify.com/track/0RIxm9cL2VmF4gGvF0NAvt",
         "author": "Shibu, Pranavi",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-25T18:52:01.792Z"
-      },
-      {
-        "title": "SHOJONI",
-        "url": "https://open.spotify.com/track/5SJIw6QnD36SDfH0xwOgbl",
-        "author": "Shibu, Tajwar",
-        "duration": "2:40",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-25T18:49:21.281Z"
       }
     ]
   }
