@@ -140,6 +140,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "bye - slowed",
+        "url": "https://open.spotify.com/track/2msVL27VsXqIaDh1A9iSAO",
+        "author": "Altare",
+        "duration": "3:26",
+        "source": "spotify",
+        "requester": "<@1551265279932112932>",
+        "playedAt": "2026-11-25T15:12:32.609Z"
+      },
+      {
         "title": "Jigar Da Tukda - Full Song | Ladies vs Ricky Bahl | Ranveer Singh | Parineeti Chopra",
         "url": "https://youtube.com/watch?v=c9w47mortQw",
         "author": "YRF",
@@ -354,15 +363,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-24T15:43:00.254Z"
-      },
-      {
-        "title": "Базовый минимум - Slow Version",
-        "url": "https://open.spotify.com/track/31P22cIIu8oVy5tQX00x3S",
-        "author": "SABI, MIA BOYKA",
-        "duration": "2:49",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-24T15:39:45.491Z"
       }
     ]
   }
