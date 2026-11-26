@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Starboy",
+        "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB",
+        "author": "The Weeknd, Daft Punk",
+        "duration": "3:50",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-26T07:32:15.961Z"
+      },
+      {
         "title": "SANAM",
         "url": "https://open.spotify.com/track/0RIxm9cL2VmF4gGvF0NAvt",
         "author": "Shibu, Pranavi",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-26T06:16:56.314Z"
-      },
-      {
-        "title": "First Kiss",
-        "url": "https://open.spotify.com/track/1nhJF3mMAL9UgBz3vLLNuM",
-        "author": "Yo Yo Honey Singh, Ipsitaa",
-        "duration": "3:40",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-26T06:13:16.613Z"
       }
     ]
   }
