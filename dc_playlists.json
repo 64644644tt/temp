@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Majboor",
+        "url": "https://open.spotify.com/track/0lp3WWhjxFVUht81AQmWX8",
+        "author": "Sheheryar Rehan, Zoha Waseem",
+        "duration": "2:25",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-26T07:48:44.736Z"
+      },
+      {
         "title": "Rakhlo Tum Chupaake",
         "url": "https://open.spotify.com/track/2AnT5iXM8ET5kiqBuE8Mpi",
         "author": "Arpit Bala, Adil",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-26T06:37:23.238Z"
-      },
-      {
-        "title": "Mujhe Tumse Mohabbat Hai - Remix",
-        "url": "https://open.spotify.com/track/0cIqctTS9MwA5BoAq2bEo0",
-        "author": "Shreya Ghoshal, Shaan",
-        "duration": "6:04",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-26T06:31:19.544Z"
       }
     ]
   }
