@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "They Don't Care About Us",
+        "url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv",
+        "author": "Michael Jackson",
+        "duration": "4:44",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-26T16:30:23.905Z"
+      },
+      {
         "title": "One Of The Girls (with JENNIE, Lily Rose Depp)",
         "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW",
         "author": "The Weeknd, JENNIE, Lily-Rose Depp",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-26T06:47:41.204Z"
-      },
-      {
-        "title": "ON MY MIND",
-        "url": "https://open.spotify.com/track/49En5kPk69YS7lSK1he7D8",
-        "author": "Fat Papi, prodshushy",
-        "duration": "2:19",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-26T06:45:21.770Z"
       }
     ]
   }
