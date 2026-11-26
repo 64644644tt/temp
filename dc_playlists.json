@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Pehla Lafz",
+        "url": "https://open.spotify.com/track/5smEWOM2zbcvTi9J7xR53q",
+        "author": "rohansbed",
+        "duration": "3:26",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-26T06:21:21.431Z"
+      },
+      {
         "title": "reha",
         "url": "https://open.spotify.com/track/0TZYCYJyaJJivCPlQ43I9N",
         "author": "Vanshh",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-26T05:07:13.937Z"
-      },
-      {
-        "title": "TAUBA",
-        "url": "https://open.spotify.com/track/4dSsq0BBxhryj6Js1JlWxe",
-        "author": "Shibu",
-        "duration": "2:51",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-26T05:04:22.247Z"
       }
     ]
   }
