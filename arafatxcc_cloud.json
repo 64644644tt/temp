@@ -3,22 +3,7 @@
     "7326996884": {
       "telegramId": "7326996884",
       "activeAccountIndex": 0,
-      "accounts": [
-        {
-          "email": "Arafatsarder600@gmail.com",
-          "password": "Arafat999+",
-          "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJsb2dpbiIsImxvZ2luSWQiOjIxMjM4NTYzMjAwNDE2OTMxODYsInJuU3RyIjoiMm1rVVVFZDZHS0tCa21zZTZ1b2tFbEs0bUYxZ0FTY1MifQ.GfKDJZM7N7oGT738wqbtCwbO6kCE8nkerY5HhASwO8I",
-          "deviceId": "2caea032-69d5-4e73-af97-680c759cef7b",
-          "deviceName": "Gecko",
-          "addedAt": "2026-11-20T19:28:34.397Z",
-          "updatedAt": "2026-11-20T19:28:34.947Z",
-          "userId": "2123856320041693186",
-          "userNo": "153646723022848",
-          "userNick": "Arafat Sardar",
-          "userIcon": "https://lh3.googleusercontent.com/a/ACg8ocKLd0CxwNWDKpgP4IZBTKeEqHDhIQd5qYNxCmOqXYfDtRsR5fM=s96-c",
-          "createTime": "2026-11-20 19:09:40"
-        }
-      ],
+      "accounts": [],
       "createdAt": "2026-11-18T08:05:12.964Z",
       "lastSeenAt": "2026-11-20T19:28:34.947Z"
     }
@@ -26,6 +11,6 @@
   "stats": {
     "totalLogins": 9,
     "totalClaims": 8,
-    "updatedAt": "2026-11-20T20:04:19.273Z"
+    "updatedAt": "2026-11-26T03:04:15.367Z"
   }
 }
