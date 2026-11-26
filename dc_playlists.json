@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Caramelldansen",
+        "url": "https://open.spotify.com/track/7MwwPyZJ7UKFROj2oVnH6R",
+        "author": "Caramella Girls",
+        "duration": "2:55",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-26T07:26:16.188Z"
+      },
+      {
         "title": "Cry For Me",
         "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI",
         "author": "The Weeknd",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-26T06:09:01.699Z"
-      },
-      {
-        "title": "Allah Maaf Kare",
-        "url": "https://open.spotify.com/track/68RveqIjrkOeBbEGL67GgA",
-        "author": "Pritam, Sonu Nigam, Shilpa Rao",
-        "duration": "3:50",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-26T06:05:11.311Z"
       }
     ]
   }
