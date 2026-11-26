@@ -153,6 +153,15 @@
         "duration": "5:35",
         "source": "youtube",
         "requester": "<@948657415635738624>",
+        "playedAt": "2026-11-26T16:35:39.845Z"
+      },
+      {
+        "title": "Hai Rama | Rangeela (1995) | Urmila Matondkar | 90's Hindi Song",
+        "url": "https://youtube.com/watch?v=5wPsx84LPag",
+        "author": "Bollywood Dhamaka",
+        "duration": "5:35",
+        "source": "youtube",
+        "requester": "<@948657415635738624>",
         "playedAt": "2026-11-26T16:34:14.598Z"
       },
       {
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-26T07:04:09.444Z"
-      },
-      {
-        "title": "Acid Ke",
-        "url": "https://open.spotify.com/track/2rCwO6NXeAkJiW7SBWQ0UR",
-        "author": "Stoic Bliss",
-        "duration": "3:59",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-26T07:00:10.205Z"
       }
     ]
   }
