@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK",
+        "author": "David Guetta, Bebe Rexha",
+        "duration": "2:55",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-26T06:57:15.288Z"
+      },
+      {
         "title": "Mayabi Chokh",
         "url": "https://open.spotify.com/track/2LEefOxpyWSWJiAhANCPXL",
         "author": "Stoic Bliss",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-26T05:40:53.107Z"
-      },
-      {
-        "title": "First Kiss",
-        "url": "https://open.spotify.com/track/1nhJF3mMAL9UgBz3vLLNuM",
-        "author": "Yo Yo Honey Singh, Ipsitaa",
-        "duration": "3:40",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-26T05:37:13.572Z"
       }
     ]
   }
