@@ -147,6 +147,15 @@
     ],
     "1573919255001567342": [
       {
+        "title": "Opekkha",
+        "url": "https://open.spotify.com/track/4vgXRRsC8bkidBj9A3eHHI",
+        "author": "Shibu",
+        "duration": "2:34",
+        "source": "spotify",
+        "requester": "<@1353755079127203982>",
+        "playedAt": "2026-11-26T00:28:38.126Z"
+      },
+      {
         "title": "Dil Chori (From \"Sonu Ke Titu Ki Sweety\")",
         "url": "https://open.spotify.com/track/4cQxBfdD5nNJaLcPIY3EcK",
         "author": "Yo Yo Honey Singh, Simar Kaur, Ishers, Anand Raj Anand",
@@ -361,15 +370,6 @@
         "source": "spotify",
         "requester": "<@1353755079127203982>",
         "playedAt": "2026-11-25T23:07:55.318Z"
-      },
-      {
-        "title": "Mashallah",
-        "url": "https://open.spotify.com/track/6QDUbyv5NfcSMp1dPekoGv",
-        "author": "Tajwar",
-        "duration": "2:03",
-        "source": "spotify",
-        "requester": "<@1353755079127203982>",
-        "playedAt": "2026-11-25T23:05:52.482Z"
       }
     ]
   }
